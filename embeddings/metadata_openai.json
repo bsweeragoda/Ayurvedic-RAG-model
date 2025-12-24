@@ -1,0 +1,122 @@
+[
+  {
+    "chunk_id": "D001",
+    "lang": "en",
+    "disease_name_en": "Tarunya Pitika (Acne vulgaris)",
+    "disease_name_si": "තරුණ්‍ය පිටිකා (මුඛදූෂිකා)"
+  },
+  {
+    "chunk_id": "D001",
+    "lang": "si",
+    "disease_name_en": "Tarunya Pitika (Acne vulgaris)",
+    "disease_name_si": "තරුණ්‍ය පිටිකා (මුඛදූෂිකා)"
+  },
+  {
+    "chunk_id": "D002",
+    "lang": "en",
+    "disease_name_en": "Vicharchika (Eczema)",
+    "disease_name_si": "විචර්චිකා (ඇක්සීමා)"
+  },
+  {
+    "chunk_id": "D002",
+    "lang": "si",
+    "disease_name_en": "Vicharchika (Eczema)",
+    "disease_name_si": "විචර්චිකා (ඇක්සීමා)"
+  },
+  {
+    "chunk_id": "D003",
+    "lang": "en",
+    "disease_name_en": "Mashaka (Elevated Mole)",
+    "disease_name_si": "මෂක (ඉහළට නෙරා ඇති ලපය)"
+  },
+  {
+    "chunk_id": "D003",
+    "lang": "si",
+    "disease_name_en": "Mashaka (Elevated Mole)",
+    "disease_name_si": "මෂක (ඉහළට නෙරා ඇති ලපය)"
+  },
+  {
+    "chunk_id": "D004",
+    "lang": "en",
+    "disease_name_en": "Galaganda (Colloid Multinodular Goiter)",
+    "disease_name_si": "ගලගණ්ඩය"
+  },
+  {
+    "chunk_id": "D004",
+    "lang": "si",
+    "disease_name_en": "Galaganda (Colloid Multinodular Goiter)",
+    "disease_name_si": "ගලගණ්ඩය"
+  },
+  {
+    "chunk_id": "D005",
+    "lang": "en",
+    "disease_name_en": "Anidra (Insomnia)",
+    "disease_name_si": "අනිද්‍රාව (නිදියන අසමත්භාවය)"
+  },
+  {
+    "chunk_id": "D005",
+    "lang": "si",
+    "disease_name_en": "Anidra (Insomnia)",
+    "disease_name_si": "අනිද්‍රාව (නිදියන අසමත්භාවය)"
+  },
+  {
+    "chunk_id": "D006",
+    "lang": "en",
+    "disease_name_en": "Grahani Roga (Irritable Bowel Syndrome)",
+    "disease_name_si": "ග්‍රහණි රෝගය (බඩවැලේ උද්දීපක තත්ත්වය)"
+  },
+  {
+    "chunk_id": "D006",
+    "lang": "si",
+    "disease_name_en": "Grahani Roga (Irritable Bowel Syndrome)",
+    "disease_name_si": "ග්‍රහණි රෝගය (බඩවැලේ උද්දීපක තත්ත්වය)"
+  },
+  {
+    "chunk_id": "D007",
+    "lang": "en",
+    "disease_name_en": "Nasal Vestibular Furunculosis",
+    "disease_name_si": "නාසාරුණශිඛා"
+  },
+  {
+    "chunk_id": "D007",
+    "lang": "si",
+    "disease_name_en": "Nasal Vestibular Furunculosis",
+    "disease_name_si": "නාසාරුණශිඛා"
+  },
+  {
+    "chunk_id": "D008",
+    "lang": "en",
+    "disease_name_en": "Janu Sandhigata Vata (Osteoarthritis of Knee)",
+    "disease_name_si": "ජානු සංධිගත වාත"
+  },
+  {
+    "chunk_id": "D008",
+    "lang": "si",
+    "disease_name_en": "Janu Sandhigata Vata (Osteoarthritis of Knee)",
+    "disease_name_si": "ජානු සංධිගත වාත"
+  },
+  {
+    "chunk_id": "D009",
+    "lang": "en",
+    "disease_name_en": "Viral Hepatitis",
+    "disease_name_si": "වෛරස් හෙපටයිටිස්"
+  },
+  {
+    "chunk_id": "D009",
+    "lang": "si",
+    "disease_name_en": "Viral Hepatitis",
+    "disease_name_si": "වෛරස් හෙපටයිටිස්"
+  },
+  {
+    "chunk_id": "D010",
+    "lang": "en",
+    "disease_name_en": "Charmakeela (Warts)",
+    "disease_name_si": "චර්මකීල (වට්ටු)"
+  },
+  {
+    "chunk_id": "D010",
+    "lang": "si",
+    "disease_name_en": "Charmakeela (Warts)",
+    "disease_name_si": "චර්මකීල (වට්ටු)"
+  }
+]

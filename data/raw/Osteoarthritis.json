@@ -1,0 +1,116 @@
+{
+  "disease_id": "D008",
+  "disease": {
+    "si": "ජානු සංධිගත වාත",
+    "en": "Janu Sandhigata Vata (Osteoarthritis of Knee)"
+  },
+  "definition": {
+    "si": "ජානු සංධිගත වාත යනු අයුර්වේදයට අනුව දීර්ඝකාලීන, පිරිහෙන වාත ව්‍යාධියක් වන අතර එය ජානු සන්ධියට බලපායි.",
+    "en": "Janu Sandhigata Vata is a chronic, degenerative Vata disorder in Ayurveda, affecting the knee joint."
+  },
+  "symptoms": {
+    "si": [
+      "සන්ධි වේදනාව",
+      "සන්ධියේ ඉදිමීම",
+      "චලනය අපහසු වීම",
+      "අස්ථි බිඳෙන ශබ්දය",
+      "අතපය සොලවන විට වේදනාවක් ඇති වීම"
+    ],
+    "en": [
+      "Joint pain",
+      "Swelling in the joint",
+      "Restricted movement",
+      "Cracking sound in joint",
+      "Pain and tenderness during movement"
+    ]
+  },
+  "causes": {
+    "si": [
+      "ධාතු ක්ෂයය",
+      "මර්ම ස්ථාන වලට හානි",
+      "ශරීරය අවශෝෂණය වීම"
+    ],
+    "en": [
+      "Dhatu Kshaya (tissue depletion)",
+      "Trauma to vital joints",
+      "Body emaciation"
+    ]
+  },
+  "samprapti": {
+    "nidana": {
+      "si": "වාත ප්‍රකෝප කිරීමට හේතු",
+      "en": "Vata-aggravating causes"
+    },
+    "dosha": {
+      "si": "වයාන වායු, ශ්ලේෂක කප",
+      "en": "Vyana Vayu, Shleshaka Kapha"
+    },
+    "dushya": {
+      "si": "අස්ථි, මජ්ජා, මේද",
+      "en": "Asthi (bones), Majja (marrow), Meda (fat)"
+    },
+    "srotas": {
+      "si": "අස්ථිවහ, මජ්ජාවහ, මේදවහ",
+      "en": "Asthivaha, Majjavaha, Medovaha"
+    },
+    "agni": {
+      "si": "මන්දාග්නි",
+      "en": "Low digestive fire (Mandagni)"
+    }
+  },
+  "treatments": {
+    "basti": {
+      "si": ["මාත්‍රා බස්ති", "තික්ත ක්ෂීර බස්ති"],
+      "en": ["Matra Basti", "Tikta Ksheera Basti"]
+    },
+    "internal_medicines": {
+      "si": ["ගෘතා", "ගුග්ගුළු", "ශල්ලකි සංස්කරණ"],
+      "en": ["Ghritas", "Guggulu", "Shallaki preparations"]
+    },
+    "external_therapies": {
+      "si": ["උපනාහ ස්වේදනය", "අග්නි කර්ම"],
+      "en": ["Upanaha Swedana", "Agni Karma"]
+    },
+    "physiotherapy": {
+      "si": ["අධි-සංඛ්‍යාත විද්‍යුත් චුම්භක තරංග භාවිතය", "අතිධ්වනි චිකිත්සාව", "වාෂ්ප චිකිත්සාව"],
+      "en": ["Shortwave Diathermy", "Ultrasound", "Hot Pack"]
+    }
+  },
+  "diet_and_lifestyle": {
+    "pathya_diet": {
+      "si": ["තිරිඟු", "උඳු", "රතු සහල්", "වියලි මිදි"],
+      "en": ["Wheat", "Blackgram", "Red rice", "Grapes"]
+    },
+    "apathya_diet": {
+      "si": ["බාර්ලි", "කඩල", "ශීත ජලය", "වියලි මස්"],
+      "en": ["Barley", "Chanaka", "Cold water", "Dry meat"]
+    },
+    "pathya_vihara": {
+      "si": ["උණුසුම් සහිත ස්ථානවල සිටීම"],
+      "en": ["Exposure to warm environments"]
+    },
+    "apathya_vihara": {
+      "si": ["ප්‍රමාද වී අවදිවීම", "ස්වාභාවික ආවේගයන් යටපත් කරගෙන සිටීම"],
+      "en": ["Waking up late", "Suppressing natural urges"]
+    }
+  },
+  "prevention": {
+    "si": [
+      "නිසි ආහාරය",
+      "නිසි නින්ද",
+      "යහපත් චර්යාවන්",
+      "ජීවන රටාවන් වෙනස් කිරීම"
+    ],
+    "en": [
+      "Proper diet",
+      "Adequate sleep",
+      "Celibacy",
+      "Lifestyle modification"
+    ]
+  },
+  "images":  [],
+  "conclusion": {
+    "si": "ජානු සංධිවලින් වේදනා සහ ශෝථ ඇති කරවන්නේ වාත දෝෂය කිපීමෙනි. අයුර්වේදය තුළ ප්‍රතිකාර, ආහාර හා ජීවන රටාව මගින් මෙය සුවකල හැක.",
+    "en": "Pain and swelling in the knee are caused by vitiated Vata. A holistic Ayurvedic management approach involving treatment, diet, and lifestyle is essential."
+  }
+}

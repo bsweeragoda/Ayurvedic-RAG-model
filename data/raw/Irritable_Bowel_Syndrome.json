@@ -1,0 +1,180 @@
+{
+  "disease_id": "D006",
+  "disease": {
+    "si": "ග්‍රහණි රෝගය (බඩවැලේ උද්දීපක තත්ත්වය)",
+    "en": "Grahani Roga (Irritable Bowel Syndrome)"
+  },
+  "definition": {
+    "si": "ග්‍රහණි රෝගය යනු අග්නිය දුර්වල වීම (අග්නිමන්‍දය) නිසා හටගන්නා ආහාර ජීර්ණ පද්ධතියේ තත්ත්වයක් වන අතර මලබද්ධය සහ පාචනය මාරුවෙන් මාරුවට ඇතිවීම, උදරයේ වේදනාව, බඩ පුරවා දැමීම සහ ශරීරයේ දුර්වලතාවය යන ලක්ෂණ දැකිය හැක.",
+    "en": "Grahani Roga is a gastrointestinal disorder caused by impaired Agni (digestive fire), characterized by alternating bowel habits, abdominal pain, bloating, and generalized weakness."
+  },
+  "symptoms": {
+    "si": [
+      "මලබද්ධය සහ පාචනය මාරුවෙන් මාරුවට ඇතිවීම",
+      "උදර වේදනාව",
+      "බඩ පුරවා දැමීම",
+      "කෑම අරුචිය",
+      "ශරීරයේ දුර්වලතාවය",
+      "ඔක්කාරය"
+    ],
+    "en": [
+      "Alternating constipation and loose stools",
+      "Abdominal pain",
+      "Abdominal bloating",
+      "Loss of appetite",
+      "Generalized weakness",
+      "Nausea"
+    ]
+  },
+  "causes": {
+    "si": [
+      "අවිධිමත් ආහාර පුරුද්ද",
+      "අවිධිමත් ජීවන රටාව",
+      "අග්නිමන්‍දය (ජීර්ණ ශක්තිය අඩුවීම)",
+      "මානසික ආතතිය",
+      "අනියම් වේලාවන්ට ආහාර ගැනීම"
+    ],
+    "en": [
+      "Unwholesome diet",
+      "Improper lifestyle",
+      "Weak digestive fire (Agnimandya)",
+      "Mental stress",
+      "Irregular food intake patterns"
+    ]
+  },
+  "samprapti": {
+    "nidana": {
+      "si": "අහිතකර ආහාර රටාව සහ වැරදි ජීවන පුරුදු",
+      "en": "Faulty dietary habits and improper lifestyle"
+    },
+    "dosha": {
+      "si": "වාත, පිත, කස",
+      "en": "Vata, Pitta, and Kapha involvement"
+    },
+    "dushya": {
+      "si": "රස, රක්ත, මංස දූෂණය",
+      "en": "Involvement of Rasa, Rakta, and Mamsa dhatus"
+    },
+    "srotas": {
+      "si": "අන්නාවහ, පුරීෂාවහ, මනෝවහ ශ්‍රෝතස්",
+      "en": "Annavaha, Purishavaha, and Manovaha Srotas"
+    },
+    "agni": {
+      "si": "මන්දාග්නි (දිරවීමේ ශක්තිය අඩුවීම)",
+      "en": "Mandagni (impaired digestive fire)"
+    }
+  },
+  "treatments": {
+    "basti": {
+      "si": [],
+      "en": []
+    },
+    "internal_medicines": {
+      "si": [
+        "බිල්වාදි ගුලිකා",
+        "හිංග්වාෂ්ටක චූර්ණ",
+        "ජීරකාර්යාරිෂ්ට",
+        "ශිලජත්වාදී ලෝහ",
+        "බිල්වා ලේහ",
+        "පංචාම්‍රිත පාර්පටි",
+        "බ්‍රාහ්මී වටි",
+        "සරස්වතාරිෂ්ට"
+      ],
+      "en": [
+        "Bilwadi Gulika",
+        "Hingwashtaka Churna",
+        "Jeerakadyarishta",
+        "Shilajatwadi Louha",
+        "Bilwavaleha",
+        "Panchamrita Parpati",
+        "Brahmi Vati",
+        "Saraswatarishta"
+      ]
+    },
+    "external_therapies": {
+      "si": [],
+      "en": []
+    },
+    "physiotherapy": {
+      "si": ["මානසික සන්සුන්භාවය සඳහා උපදේශන සේවාව"],
+      "en": ["Counseling for mental calmness"]
+    }
+  },
+  "diet_and_lifestyle": {
+    "pathya_diet": {
+      "si": [
+        "මුදු ආහාර",
+        "පහසුවෙන් ජීර්ණ වන ආහාර",
+        "මුං ඇට සූප්",
+        "රොටි",
+        "මුදවපු කිරි",
+        "ගිතෙල්"
+      ],
+      "en": [
+        "Light food",
+        "Easily digestible meals",
+        "Green gram soup",
+        "Jowar roti",
+        "Buttermilk",
+        "Cow ghee"
+      ]
+    },
+    "apathya_diet": {
+      "si": [
+        "දිරවීමට අපහසු සහ සැර ආහාර",
+        "අවිධිමත් ආහාර රටාව",
+        "නොගැලපෙන ආහාර සංයෝජන",
+        "අක්‍රමවත් වේලාවන්වල ආහාර ගැනීම"
+      ],
+      "en": [
+        "Heavy and spicy foods",
+        "Improper dietary habits",
+        "Incompatible food combinations",
+        "Eating at irregular times"
+      ]
+    },
+    "pathya_vihara": {
+      "si": [
+        "සන්සුන් ජීවන රටාව",
+        "නියමිත විවේකය",
+        "මානසික සන්සුන්භාවය පවත්වා ගැනීම"
+      ],
+      "en": [
+        "Calm lifestyle",
+        "Adequate rest",
+        "Maintaining mental calmness"
+      ]
+    },
+    "apathya_vihara": {
+      "si": [
+        "අධික මානසික ආතතිය",
+        "අවිධිමත් නින්ද",
+        "අවිධිමත් ජීවන රටාව"
+      ],
+      "en": [
+        "Excessive mental stress",
+        "Improper sleep",
+        "Irregular activities"
+      ]
+    }
+  },
+  "prevention": {
+    "si": [
+      "නියමිත වේලාවන්ට ආහාර ගැනීම",
+      "අවශ්‍ය විවේක ලබා ගැනීම",
+      "සැලසුම් සහිත ආහාර පුරුද්දක් පවත්වාගෙන යාම",
+      "නිසි ආහාර ජීර්ණ පවත්වා ගැනීම"
+    ],
+    "en": [
+      "Regular food timings",
+      "Adequate rest",
+      "Well-planned diet and lifestyle",
+      "Maintaining proper digestive fire"
+    ]
+  },
+  "images": [],
+  "conclusion": {
+    "si": "ආයුර්වේදයට අනුව, ග්‍රහණි රෝගය (IBS), අග්නිදීපන, ග්‍රාහී, සහ ශමන ප්‍රතිකාර ක්‍රම මෙන්ම, පත්‍ය ආහාර විහරණ (හිතකර ආහාර සහ ජීවන රටාව) අනුගමනය කිරීම තුළින්ද ඵලදායීව කළමනාකරණය කළ හැකිය.",
+    "en": "Grahani Roga (IBS) can be effectively managed through Agnideepana, Grahi, and Shamana therapies along with proper diet and lifestyle (Pathya Vihara)."
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "disease_id": "D002",
+  "disease": {
+    "si": "විචර්චිකා (ඇක්සීමා)",
+    "en": "Vicharchika (Eczema)"
+  },
+  "definition": {
+    "si": "ආයුර්වේදයට අනුව විචර්චිකා යනු, ක්ෂුද්‍ර කුෂ්ඨ (සුළු චර්ම රෝග) ගණයට අයත් රෝගී තත්ත්වයකි. කැසීම, සමේ බිබිලි හෝ දද ඇතිවීම, සමේ පැහැය වෙනස් වීම සහ අධික ලෙස දියර/ශ්‍රාවයන් ගැලීම මෙහි ප්‍රධාන ලක්ෂණ වේ.",
+    "en": "In Ayurveda, Vicharchika is classified as a type of Kshudra Kustha, characterized by itching, eruptions, discoloration, and excessive discharge."
+  },
+  "symptoms": {
+    "si": [
+      "කැසීම (කණ්ඩු)",
+      "සම අඳුරුපැහැ වීම (ශාව වර්ණ)",
+      "දියර ගලන දද (බහුස්‍රාව)",
+      "ඉරි තැළුණු තුවාල (රාජී)",
+      "වියළි, දැඩි සම",
+      "සමේ දැවිල්ල (දාහ)"
+    ],
+    "en": [
+      "Itching (Kandu)",
+      "Dark discoloration (Shyava varna)",
+      "Eruptions with discharge (Bahusrava)",
+      "Cracked and lined lesions (Raji)",
+      "Dry, rough skin",
+      "Burning sensation (Daha)"
+    ]
+  },
+  "causes": {
+    "si": [
+      "සමබර නොවන ආහාර ගැනීම (උදා: මාළු සහ කිරි වැනි නොගැලපෙන ආහාර එකට ගැනීම)",
+      "වැඩිපුර ආහාර ගත් පසුව ව්‍යායාමයේ යෙදීම",
+      "අක්‍රමවත් ආහාර පුරුදු (නියමිත වේලාවට ආහාර නොගැනීම)",
+      "එකවර අධික රස්නයකට හෝ සීතලකට නිරාවරණය වීම",
+      "කලින් ගත් ආහාර දිරවීමට පෙර නැවත ආහාර ගැනීම (අජීර්ණ තත්ත්වයේදී ආහාර ගැනීම)",
+      "නුසුදුසු ආහාර පුරුදු"
+    ],
+    "en": [
+      "Incompatible food combinations (e.g., fish with milk)",
+      "Exercise after heavy meals",
+      "Irregular food habits",
+      "Abrupt exposure to heat or cold",
+      "Eating during indigestion",
+      "Improper dietary practices"
+    ]
+  },
+  "samprapti": {
+    "nidana": {
+      "si": "නුසුදුසු ආහාර සහ වැරදි ජීවන රටාවන් හේතුවෙන් වාත, පිත්ත, කඵ යන ත්‍රිදෝෂයන් කෝප වීම / දූෂණය වීම.",
+      "en": "Improper diet and lifestyle causing vitiation of Tridoshas"
+    },
+    "dosha": {
+      "si": "ත්‍රිදෝෂ (වාත, පිත, කප) — පිත්ත ප්‍රධාන(චරක) / කප ප්‍රධාන(සුෂ්‍රුත)",
+      "en": "Tridosha (Vata, Pitta, Kapha) — Kapha dominant (Charaka), Pitta dominant (Sushruta)"
+    },
+    "dushya": {
+      "si": "චර්ම, රක්ත, මාංස, ලසිකා",
+      "en": "Twak (skin), Rakta (blood), Mamsa (muscle), Lasika (lymph)"
+    },
+    "srotas": {
+      "si": "රසවහිනි, රක්තවහිනි, මාංසවහිනි, ස්වේදවහිනි ශ්‍රෝත",
+      "en": "Rasavaha, Raktavaha, Mamsavaha, Swedavaha srotas"
+    },
+    "agni": {
+      "si": "පාචක අග්නිය හෙවත් ආහාර දිරවීමේ ශක්තිය දුර්වල වීම (ජඨරාග්නිය සහ ධාත්වාග්නිය)",
+      "en": "Low digestive fire (Jatharagni and Dhatvagni)"
+    }
+  },
+  "treatments": {
+    "shodhana": {
+      "si": ["වමන", "විරේචන", "රක්තමෝක්ෂණ", "අස්ථාපන බස්ති", "අණුවාසන බස්ති", "නසය", "දුමපාන"],
+      "en": ["Vamana", "Virechana", "Raktamokshana", "Asthapana Basti", "Anuvasana Basti", "Nasya", "Dhumapana"]
+    },
+    "internal_medicines": {
+      "si": ["රසකිඳ යුෂ", "කොහොඹ කෂාය", "බදුල්ල", "ශිලාජතු", "රසාමණික්‍ය"],
+      "en": ["Guduchi juice", "Neem decoction", "Bhallataka", "Shilajatu", "Rasamanikya"]
+    },
+    "external_therapies": {
+      "si": ["අර්කා තෙල්", "මරිච්‍යාදි තෙල්", "කූෂ්ඨහර ලේප"],
+      "en": ["Arka Taila", "Marichyadi Taila", "Anti-kustha herbal pastes"]
+    },
+    "physiotherapy": {
+      "si": ["ප්‍රස්තර ස්වේද", "ප්‍රාණාදි ස්වේද"],
+      "en": ["Prastara Swedana", "Pranadi Swedana"]
+    },
+    "daivavyapashraya": {
+      "si": ["රත / ප්‍රතිඥා", "ආත්ම සංයමය / ඉන්ද්‍රිය සංවරය", "සදාචාරාත්මක හැසිරීම / ධාර්මික පැවැත්ම", "ගුරු දේව වන්දනාව / ගුරුවරුන්ට සහ දෙවියන්ට වන්දනාමාන කිරීම"],
+      "en": ["Vows", "Self-restraint", "Ethical conduct", "Teacher & deity worship"]
+    }
+  },
+  "diet_and_lifestyle": {
+    "pathya_diet": {
+      "si": ["දිරවීමට පහසු ආහාර", "කොහොඹ සහ දාරුහරිද්‍ර (වෙනිවැල්ගැට) වැනි ඖෂධ පැළෑටි"],
+      "en": ["Easily digestible food", "Herbs like Neem and Darvi"]
+    },
+    "apathya_diet": {
+      "si": ["නොගැලපෙන ආහාර (උදා: කිරි සහ මාළු)", "ඇඹුල් සහ ලිණු රස සහිත ආහාර", "ඉතා තෙල් සහිත ආහාර"],
+      "en": ["Incompatible foods (milk with fish)", "Sour and salty foods", "Oily and heavy meals"]
+    },
+    "pathya_vihara": {
+      "si": ["නිසි විවේකය", "පිරිසිදු ජලය පානය කිරීම", "පිරිසිදුව සිටීම"],
+      "en": ["Adequate rest", "Clean water intake", "Hygienic lifestyle"]
+    },
+    "apathya_vihara": {
+      "si": ["ස්නේහ කර්මයෙන් පසුව සිදුකරන නුසුදුසු ක්‍රියා / පිළිවෙත්.", "එකවර සීතලට නිරාවරණය වීම", "අපිරිසිදු හෝ දූෂිත පරිසරය"],
+      "en": ["Improper post-sneha activity", "Abrupt exposure to cold", "Unclean or toxic environment"]
+    }
+  },
+  "prevention": {
+    "si": [
+      "සමබර නොවන ආහාර (එකට නොගැලපෙන ආහාර) ගැනීමෙන් වැළකීම. / විරුද්ධ ආහාර සංයෝග වලින් වැළකීම.",
+      "නියමිත වේලාවට ආහාර ගැනීම.",
+      "මානසික සමබරතාව සහ ප්‍රමාණවත් විවේකය.",
+      "පිරිසිදු ජීවන පරිසරයක් පවත්වා ගැනීම."
+    ],
+    "en": [
+      "Avoid incompatible food combinations",
+      "Eat timely meals",
+      "Mental balance and adequate rest",
+      "Clean living environment"
+    ]
+  },
+  "images": [ 
+    {
+      "title": "Eczema Symptoms Diagram",
+      "file": "images/eczema_symptoms_1.jpg"
+    }
+  ],
+  "conclusion": {
+    "si": "විචර්චිකා යනු, ත්‍රිදෝෂයන්ගේ (වාත, පිත, කප) අසමතුලිතතාවය නිසා ඇතිවන රෝගී තත්ත්වයකි. ආයුර්වේදයේදී, ශෝධන (ශරීරය පිරිසිදු කිරීමේ ප්‍රතිකාර) සහ ශමන (දෝෂ සමනය කිරීමේ ප්‍රතිකාර) යන ප්‍රතිකාර ක්‍රම මගින් මෙන්ම, ආහාර සහ ජීවන රටාව නිවැරදි කිරීම තුළින්ද මේ සඳහා ඵලදායී සහ සර්වාංගීන ප්‍රතිකාරයක් ලබා දේ.",
+    "en": "Vicharchika is a manifestation of Tridoshic imbalance. Ayurvedic management through Shodhana, Shamana, and diet-lifestyle correction ensures effective and holistic treatment."
+  }
+}

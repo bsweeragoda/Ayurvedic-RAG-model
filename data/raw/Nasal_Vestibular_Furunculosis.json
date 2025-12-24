@@ -1,0 +1,165 @@
+{
+  "disease_id": "D007",
+  "disease": {
+    "si": "නාසාරුණශිඛා",
+    "en": "Nasal Vestibular Furunculosis"
+  },
+  "definition": {
+    "si": "නාසය තුළ හටගන්නා ගෙඩි (Nasal Furunculosis) යනු, වාත-පිත්ත දෝෂ කෝප වීම නිසා ඇතිවන රෝගී තත්ත්වයකි. මෙහිදී, නාස් පුඩුවේ ඉදිරිපස කොටසේ ඇති රෝම කූපයක් ආසාදනය වී, වේදනාකාරී, සැර පිරුණු ගෙඩියක් (furuncle) හටගනී.",
+    "en": "Nasal vestibular furunculosis is a Vata-Pitta disorder caused by infection of a hair follicle in the nasal vestibule, resulting in a painful, suppurated furuncle."
+  },
+  "symptoms": {
+    "si": [
+      "එක් ස්ථානයක තද වේදනාව",
+      "රතු පැහැය සහ ඉදිමීම",
+      "නාස පුඩුව තුළ ගෙඩියක් (furuncle)",
+      "නැවත නැවත හට ගැනීම",
+      "ගැහෙන/කැක්කුම් වේදනාව"
+    ],
+    "en": [
+      "Localized severe pain",
+      "Redness and swelling",
+      "Furuncle in the nasal vestibule",
+      "Recurrent episodes",
+      "Throbbing pain"
+    ]
+  },
+  "causes": {
+    "si": [
+      "වාත-පිත්ත විකෘති වීම",
+      "නාසයේ රෝම ගැල්වීම",
+      "ස්ටැෆිලොකොකල්ෆ් ආසාදන",
+      "ප්‍රතිජීවක අධික භාවිතය"
+    ],
+    "en": [
+      "Vitiation of Vata-Pitta",
+      "Plucking nasal hair",
+      "Staphylococcal infection",
+      "Excessive antibiotic use"
+    ]
+  },
+  "samprapti": {
+    "nidana": {
+      "si": "වාත-පිත්ත දෝෂ උත්සාදන හේතු",
+      "en": "Vata-Pitta aggravating factors"
+    },
+    "dosha": {
+      "si": "වාත, පිත",
+      "en": "Vata, Pitta"
+    },
+    "dushya": {
+      "si": "රක්ත, ත්වක්",
+      "en": "Rakta, Twak"
+    },
+    "srotas": {
+      "si": "රක්ත වහ ශ්‍රෝථ",
+      "en": "Raktavaha srotas"
+    },
+    "agni": {
+      "si": "අවිත්තාග්නි",
+      "en": "Disturbed digestive fire (Avittagni)"
+    }
+  },
+  "treatments": {
+    "basti": {
+      "si": [],
+      "en": []
+    },
+    "internal_medicines": {
+      "si": [
+        "ත්‍රිපලා ගුග්ගුළු",
+        "කෛශෝර ගුග්ගුළු",
+        "සුක්ෂ්ම ත්‍රිපලා",
+        "මහමාංජිෂ්ඨාදි කවාථ",
+        "අවිපත්තිකාර චූර්ණ"
+      ],
+      "en": [
+        "Triphala Guggulu",
+        "Kaishora Guggulu",
+        "Sukshma Triphala",
+        "Mahamanjishthadi Kwatha",
+        "Avipattikara Churna"
+      ]
+    },
+    "external_therapies": {
+      "si": [
+        "ජලෞකා වචරණ (කූඩළු ප්‍රතිකාරය)"
+      ],
+      "en": [
+        "Jalaukavacharana (Leech therapy)"
+      ]
+    },
+    "physiotherapy": {
+      "si": [],
+      "en": []
+    }
+  },
+  "diet_and_lifestyle": {
+    "pathya_diet": {
+      "si": [
+        "මෘදු ආහාර",
+        "පැණි රස",
+        "නිර්මාංශ ආහාර"
+      ],
+      "en": [
+        "Mild food",
+        "Sweet-tasting food",
+        "Vegetarian diet"
+      ]
+    },
+    "apathya_diet": {
+      "si": [
+        "සැර, ඇඹුල්, ලුණු රසැති ආහාර",
+        "පිත කෝප කරන ආහාර"
+      ],
+      "en": [
+        "Pungent, sour, salty foods",
+        "Pitta-aggravating food"
+      ]
+    },
+    "pathya_vihara": {
+      "si": [
+        "නිසි විවේකය",
+        "සන්සුන් ජීවන රටාව"
+      ],
+      "en": [
+        "Adequate rest",
+        "Calm and disciplined lifestyle"
+      ]
+    },
+    "apathya_vihara": {
+      "si": [
+        "විවේකය නොමැතිවීම",
+        "නාසය නිතර ඇල්ලීම/කැඩීම"
+      ],
+      "en": [
+        "Lack of rest",
+        "Frequent manipulation of the nose"
+      ]
+    }
+  },
+  "prevention": {
+    "si": [
+      "ප්‍රතිජීවක අධික භාවිත වැළකීම",
+      "නාසය තුවාල කර ගැනීමෙන් වැළකීම",
+      "වාත-පිත දෝෂ පාලනය",
+      "සනීපාරක්ෂණ රීති අනුගමනය"
+    ],
+    "en": [
+      "Avoid overuse of antibiotics",
+      "Prevent nasal trauma",
+      "Control Vata-Pitta aggravation",
+      "Maintain good hygiene"
+    ]
+  },
+  "images":  [
+    {
+      "title": "Nasal Vestibular Furunculosis Symptoms Diagram",
+      "file": "images/nasal_vestibular_furunculosis_symptoms_1.jpg"
+    }
+  ],
+  "conclusion": {
+    "si": "නාසය තුළ හටගන්නා ගෙඩි වැනි ආසාදන සඳහා, ජලෞකාවචරණ (කූඩැල්ලන් යොදා කරන ප්‍රතිකාරය) සහ අභ්‍යන්තරව භාවිත කරන ආයුර්වේද ඖෂධ මඟින් සැලකිය යුතු සහනයක් සලසන අතර, එය ඉතා හිතකර ප්‍රතිකාර ක්‍රමයකි.",
+    "en": "In cases of nasal furunculosis, leech therapy and internal Ayurvedic medicines significantly reduce pain, swelling, and inflammation, making it an effective Ayurvedic approach."
+  }
+}

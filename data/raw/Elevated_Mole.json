@@ -1,0 +1,123 @@
+{
+  "disease_id": "D003",
+  "disease": {
+    "si": "මෂක (ඉහළට නෙරා ඇති ලපය)",
+    "en": "Mashaka (Elevated Mole)"
+  },
+  "definition": {
+    "si": "මෂක යනු වාතාධිකතාව හේතුවෙන් ඇතිවන, කළු, දැඩි, වේදනාවක් නොමැති, ඉහළින් ඇති සම පැල්ලමකි. අයුර්වේදය අනුව මෙය ක්ෂුද්‍ර රෝගයකි.",
+    "en": "Mashaka is a raised, firm, painless, black lesion caused primarily by aggravated Vata Dosha and is categorized under Kshudra Rogas in Ayurveda."
+  },
+  "symptoms": {
+    "si": [
+      "කළු පැහැති ඉදිරියට නෙරා ඇති පැල්ලම",
+      "දැඩි හා වේදනා රහිත",
+      "විෂ්කම්භය සාමාන්‍යයෙන් 1–3 mm",
+      "වර්ණය, හැඩය, ප්‍රමාණය වෙනස් නොවීම",
+      "ඉහළට නෙරා ඇති, වර්ණවත් ලපය"
+    ],
+    "en": [
+      "Black, raised lesion",
+      "Firm and painless",
+      "Usually 1–3 mm in diameter",
+      "No change in color, shape, or size",
+      "Elevated pigmented mole"
+    ]
+  },
+  "causes": {
+    "si": [
+      "වාතාධිකතාව (වාත දෝෂ ප්‍රකෝපය)",
+      "සංජානනීය හෝ එකතු වූ මෙලනොසයිට් පොකුරු",
+      "නුසුදුසු ජීවන රටා රටා (ආයුර්වේද දෘෂ්ටිකෝණයට අනුව)"
+    ],
+    "en": [
+      "Aggravated Vata Dosha",
+      "Congenital or acquired melanocyte clustering",
+      "Improper lifestyle patterns (Ayurvedic perspective)"
+    ]
+  },
+  "samprapti": {
+    "nidana": {
+      "si": "වාතාධිකතාව සහ සමේ මැලනොසයිට් එකතුවීම",
+      "en": "Aggravation of Vata and accumulation of melanocytes in the skin"
+    },
+    "dosha": {
+      "si": "වාත ප්‍රධාන (වාත-කෞප අසමතුලිතතාව)",
+      "en": "Vata dominant (Vata-Kapha imbalance)"
+    },
+    "dushya": {
+      "si": "චර්ම (සම), රක්ත (රුධිරය)",
+      "en": "Twak (skin), Rakta (blood)"
+    },
+    "srotas": {
+      "si": "රසවහිනි, රක්තවහිනි ශ්‍රෝත",
+      "en": "Rasavaha, Raktavaha srotas"
+    },
+    "agni": {
+      "si": "ධාත්වාග්නි මන්දය (සමේ පෝෂණය අඩුවීම)",
+      "en": "Low Dhatwagni leading to weak tissue nourishment"
+    }
+  },
+  "treatments": {
+    "shodhana": {
+      "si": ["අග්නිකර්ම (දහන ප්‍රතිකාරය)"],
+      "en": ["Agnikarma (therapeutic cauterization)"]
+    },
+    "internal_medicines": {
+      "si": ["යෂ්ටිමධු ගෘත (ග්‍රීත)", "කෝමාරිකා (ග්‍රිතකුමාරි)"],
+      "en": ["Yashtimadhu Ghruta", "Aloe vera (Ghritkumari)"]
+    },
+    "external_therapies": {
+      "si": ["අග්නිකර්මය පසු යෂ්ටිමධු ගෘත සහ සහ කෝමාරිකා පල්ප් යෙදීම"],
+      "en": ["Post-Agnikarma application of Yashtimadhu Ghruta and aloe vera pulp"]
+    },
+    "physiotherapy": {
+      "si": [],
+      "en": []
+    },
+    "daivavyapashraya": {
+      "si": [],
+      "en": []
+    }
+  },
+  "diet_and_lifestyle": {
+    "pathya_diet": {
+      "si": ["සැහැල්ලු සහ පහසුවෙන් ජීර්ණය කළ හැකි ආහාර", "සමට සුදුසු, පෝෂක ආහාර"],
+      "en": ["Light and easily digestible foods", "Skin-supportive dietary choices"]
+    },
+    "apathya_diet": {
+      "si": ["ඉතා උණුසුම් සහ සැර ආහාර", "වාත-කුපිත කරවන ආහාර"],
+      "en": ["Excessively hot and spicy foods", "Vata-aggravating foods"]
+    },
+    "pathya_vihara": {
+      "si": ["සම පිරිසිදු තබා ගැනීම", "සමට සිදුවන ආඝාතයන්ගෙන් වැළකීම"],
+      "en": ["Maintain skin hygiene", "Avoid trauma or pressure on the skin"]
+    },
+    "apathya_vihara": {
+      "si": ["සමට හානි කරන ක්‍රියා", "අපිරිසිදු පරිසරයට නිරාවරණය"],
+      "en": ["Skin-damaging activities", "Exposure to unhygienic environments"]
+    }
+  },
+  "prevention": {
+    "si": [
+      "සම පිරිසිදුව තබා ගැනීම",
+      "වාත-කුපිත කරවන ආහාර හා හැසිරීම් වලින් වළකින",
+      "සමට සිදුවන අධික අවපීඩනයන්ගෙන් වැළකීම"
+    ],
+    "en": [
+      "Maintain proper skin hygiene",
+      "Avoid Vata-aggravating foods and activities",
+      "Prevent excessive pressure or trauma to the skin"
+    ]
+  },
+  "images": [
+    {
+      "title": "Elevated_Mole Symptoms Diagram",
+      "file": "images/elevated_mole_symptoms_1.jpg"
+    }
+  ],
+  "conclusion": {
+    "si": "මෂක වාතාධිකතාවයෙන් ඇතිවන ක්ෂුද්‍ර රෝගයකි. අයුර්වේදයේ අග්නිකර්ම ප්‍රතිකාරය මගින් ඉතා සාර්ථකව සුව කළ හැක.",
+    "en": "Mashaka is a minor Vata-dominant condition. Agnikarma therapy provides effective, safe, and cosmetically favorable treatment."
+  }
+}

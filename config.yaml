@@ -1,0 +1,13 @@
+paths:
+  root: .
+  data: ./data
+  embeddings: ./embeddings
+  indices: ./indices
+
+embedding:
+  st_model: "sentence-transformers/all-mpnet-base-v2"
+  openai_model: "text-embedding-3-large"
+
+chunking:
+  size: 512
+  overlap: 50

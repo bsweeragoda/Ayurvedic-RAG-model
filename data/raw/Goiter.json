@@ -1,0 +1,183 @@
+{
+  "disease_id": "D004",
+  "disease": {
+    "si": "ගලගණ්ඩය",
+    "en": "Galaganda (Colloid Multinodular Goiter)"
+  },
+
+  "definition": {
+    "si": "ගලගණ්ඩය යනු අයුර්වේදයට අනුව බෙල්ල ප්‍රදේශයේ ඇතිවන ග්‍රන්ථිමය වර්ධනයකි. මෙය බහු ගැටිති ගලගණ්ඩය (MNG) ලෙස හඳුන්වයි, එය තයිරොයිඩ් ග්‍රන්ථියේ වඩාත් පොදු රෝගයකි.",
+    "en": "Galaganda, according to Ayurveda, is a glandular swelling in the neck region. It correlates with multinodular goiter (MNG), one of the most common disorders of the thyroid gland."
+  },
+
+  "symptoms": {
+    "si": [
+      "බෙල්ල ප්‍රදේශයේ උරන ශෝථ",
+      "බෙල්ලේ තද බවක් දැනීම",
+      "උදරයේ වේදනාව",
+      "ආමලිකතාව",
+      "මලබද්ධය",
+      "බඩ පුරවා දැමීම",
+      "ආහාර ගිලීමේ අපහසුතාව",
+      "නිදා ගැනීමේ අපහසුතාව"
+    ],
+    "en": [
+      "Swelling in the neck",
+      "Tightness and tense feeling in the neck",
+      "Abdominal discomfort",
+      "Acidity",
+      "Constipation",
+      "Abdominal distension",
+      "Difficulty swallowing food",
+      "Disturbed sleep"
+    ]
+  },
+
+  "causes": {
+    "si": [
+      "අයඩීන් අඩුකම",
+      "අයඩීන් පරිවෘත්තියේ දෝෂ",
+      "පටක ක්ෂය වීම හා ජීර්ණ අපහසුතා",
+      "වාත, කප, මේද දෝෂ විකෘතිය"
+    ],
+    "en": [
+      "Iodine deficiency",
+      "Abnormalities in iodine metabolism",
+      "Dhatu kshaya and Agnimandya",
+      "Vitiation of Vata, Kapha, and Medas"
+    ]
+  },
+
+  "samprapti": {
+    "nidana": {
+      "si": "වාත, කප, මේද දෝෂ විකෘති කිරීම හා අග්නි මන්ධ්‍යය",
+      "en": "Vitiation of Vata, Kapha, and Medas along with diminished Agni"
+    },
+    "dosha": {
+      "si": "වාත, කප, මේද",
+      "en": "Vata, Kapha, Medas"
+    },
+    "dushya": {
+      "si": "මාංස, රක්ත, මේද",
+      "en": "Mamsa, Rakta, Medas"
+    },
+    "srotas": {
+      "si": "මාංසවහ, රක්තාවහ, මේදවහ",
+      "en": "Mamsavaha, Raktavaha, Medovaha"
+    },
+    "agni": {
+      "si": "අග්නි මන්ධ්‍යය",
+      "en": "Mandagni"
+    }
+  },
+
+  "treatments": {
+    "shodhana": {
+      "si": [],
+      "en": []
+    },
+    "internal_medicines": {
+      "si": [
+        "කංචනාර කෂාය",
+        "අමරසුන්දරී වටි",
+        "වෘද්ධිවාධික වටි",
+        "හෙර්බෝ-මිනරල් සංයෝග"
+      ],
+      "en": [
+        "Kanchanara Kashayam",
+        "Amarasundari Vati",
+        "Vridhivadhika Vati",
+        "Herbo-mineral combination"
+      ]
+    },
+    "external_therapies": {
+      "si": [
+        "ශිවක්ෂාර පචන චූර්ණ",
+        "විරේචන යෝග"
+      ],
+      "en": [
+        "Shivakshara Pachana Churna",
+        "Virechana Yoga (purgation)"
+      ]
+    },
+    "physiotherapy": {
+      "si": [],
+      "en": []
+    },
+    "daivavyapashraya": {
+      "si": [],
+      "en": []
+    }
+  },
+
+  "diet_and_lifestyle": {
+    "pathya_diet": {
+      "si": [
+        "හොඳින් පිසූ, පහසුවෙන් ජීර්ණ වන ආහාර",
+        "නියමිත වේලාවන්ට ආහාර ගැනීම"
+      ],
+      "en": [
+        "Easily digestible fresh food",
+        "Regular meal timings"
+      ]
+    },
+    "apathya_diet": {
+      "si": [
+        "ජීර්ණයට අපහසු භෝජන",
+        "කිරි ආශ්‍රිත නිෂ්පාදන",
+        "ගෝයිට්‍රජෙනික් ආහාර (ගෝවා, මල්ගෝවා, රාබු)",
+        "කිතුල් පැණි සහ පිරිසැකසුම් භෝජන"
+      ],
+      "en": [
+        "Heavy-to-digest foods",
+        "Dairy products",
+        "Goitrogenic foods (cabbage, cauliflower, turnip)",
+        "Jaggery and refined products"
+      ]
+    },
+    "pathya_vihara": {
+      "si": [
+        "නිසි වේලාවන්ට ආහාර ගැනීම",
+        "මානසික ආතතිය අවම කිරීම"
+      ],
+      "en": [
+        "Regular meals",
+        "Stress reduction"
+      ]
+    },
+    "apathya_vihara": {
+      "si": [
+        "අධික මානසික ආතතිය",
+        "දහවල් නිදා ගැනීම",
+        "රාත්‍රියේ ප්‍රමාදව නිදා ගැනීම"
+      ],
+      "en": [
+        "High stress",
+        "Daytime sleeping",
+        "Late-night wakefulness"
+      ]
+    }
+  },
+
+  "prevention": {
+    "si": [
+      "සමබර ආහාර පුරුද්ද",
+      "අධික ආහාර ගැනීමෙන් වැළකීම",
+      "මානසික සෞඛ්‍යය පවත්වා ගැනීම",
+      "නියමිත ජීවන රටාවක් පවත්වා ගැනීම"
+    ],
+    "en": [
+      "Balanced diet",
+      "Avoid overeating",
+      "Maintain mental well-being",
+      "Follow a regular lifestyle"
+    ]
+  },
+
+  "images":  [],
+
+  "conclusion": {
+    "si": "අයුර්වේද ප්‍රතිකාර මඟින් ගලගණ්ඩය රෝගය හොඳින් පාලනය කළ හැක. ප්‍රතිකාර අතරතුරදී සහ පසුවද නැවත ඇතිවීම් නැති බව පෙනී යයි.",
+    "en": "Ayurvedic treatment can effectively manage Galaganda (MNG). No recurrence is generally observed during or after treatment when proper protocols are followed."
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "disease_id": "D009",
+  "disease": {
+    "si": "වෛරස් හෙපටයිටිස්",
+    "en": "Viral Hepatitis"
+  },
+  "definition": {
+    "si": "වෛරස් හෙපටයිටිස් යනු වෛරස් ආසාදනය හෝ විෂ ද්‍රව්‍ය, මත්පැන්, ඖෂධ අධික භාවිතය, ස්වයං ප්‍රතිරෝධී තත්වයන් නිසා ඇතිවන යකඩේ ප්‍රධාන වශයෙන් දිගුකාලීන හෝ පරිකල්පිත දහන තත්ත්වයකි.",
+    "en": "Viral hepatitis is inflammation of the liver primarily caused by viral infections, but may also arise due to toxins, alcohol, drug overuse, or autoimmune mechanisms."
+  },
+  "symptoms": {
+    "si": [
+      "තෙහෙට්ටුව",
+      "ඇඟ අවපැහැය",
+      "වමනය හා අසනීප",
+      "මුත්‍රා තද කහ පැහැයට හැරවීම",
+      "ඇස් සහ සම කහවර්ණ (පීත්)",
+      "අක්මාව විශාල වීම",
+      "පසුපස/දකුණු වකුගඩු ප්‍රදේශයේ වේදනාව"
+    ],
+    "en": [
+      "Fatigue",
+      "Loss of appetite",
+      "Nausea and vomiting",
+      "Dark yellow urine",
+      "Yellowing of skin and eyes (jaundice)",
+      "Hepatomegaly (enlarged liver)",
+      "Right upper abdominal pain"
+    ]
+  },
+  "causes": {
+    "si": [
+      "වෛරස් (A, B, C, D, E)",
+      "ස්වයං ප්‍රතිශක්තිකරණ ගැටලු",
+      "මත්පැන් අධික ලෙස භාවිතය",
+      "ඖෂධ අධික භාවිතය (පැරසෙටමෝල් වැනි)",
+      "අපවිත්‍ර ජලය/ආහාර",
+      "ජාන්ගත රෝග (Wilson’s disease)"
+    ],
+    "en": [
+      "Hepatitis viruses (A, B, C, D, E)",
+      "Autoimmune dysfunction",
+      "Excessive alcohol intake",
+      "Drug overdose (e.g., acetaminophen)",
+      "Contaminated food or water",
+      "Genetic disorders (e.g., Wilson’s disease)"
+    ]
+  },
+  "samprapti": {
+    "nidana": {
+      "si": "පිත සහ රක්ත දෝෂ විකෘතිය හා අග්නි මන්ධ්‍යය",
+      "en": "Vitiation of Pitta and Rakta along with weakened Agni"
+    },
+    "dosha": {
+      "si": "පිත, වාත",
+      "en": "Pitta, Vata"
+    },
+    "dushya": {
+      "si": "රස, රක්ත, මංස",
+      "en": "Rasa, Rakta, Mamsa"
+    },
+    "srotas": {
+      "si": "රක්ත වහ ශ්‍රෝතස්",
+      "en": "Raktavaha srotas"
+    },
+    "agni": {
+      "si": "මඳග්නි (ජීර්ණ ශක්තිය පහළ වීම)",
+      "en": "Mandagni (weak digestive fire)"
+    }
+  },
+  "treatments": {
+    "internal_medicines": {
+      "si": [
+        "කාලමේඝ",
+        "කුටකි",
+        "ගුඩූචි",
+        "භෘංගරාජ",
+        "භූමි ආමලකී",
+        "පිපපලි"
+      ],
+      "en": [
+        "Kalmegha (Andrographis paniculata)",
+        "Kutaki (Picrorhiza kurroa)",
+        "Guduchi (Tinospora cordifolia)",
+        "Bhringraj (Eclipta alba)",
+        "Bhumi Amlaki (Phyllanthus niruri)",
+        "Pippali (Piper longum)"
+      ]
+    },
+    "external_therapies": {
+      "si": [
+        "මාරිච්‍යාදි තෙල් ප්‍රතිකාර",
+        "චන්දනාදී තෙල් ආලේපන"
+      ],
+      "en": [
+        "Marichyadi Taila application",
+        "Chandanadi Taila external therapy"
+      ]
+    },
+    "physiotherapy": {
+      "si": [
+        "යෝගාභ්‍යාස (පශ්චිමෝත්තානසන, මන්ඩුකාසන, කපාළභාති)"
+      ],
+      "en": [
+        "Yogic practices (e.g., Paschimottanasana, Mandukasana, Kapalabhati)"
+      ]
+    }
+  },
+  "diet_and_lifestyle": {
+    "pathya_diet": {
+      "si": [
+        "මුදු, පහසුවෙන් ජීර්ණ වන ආහාර",
+        "කිරි, සෞඛ්‍ය සම්පන්න ධාන්‍ය",
+        "සහල් සේදූ වතුර, තක්කාලි, ලාජ්ජා මන්ද වැනි දියර ආහාර",
+        "ගෝ ගෘහිත (ගිතෙල්)",
+        "නෙල්ලි",
+        "මහදුරු, දුරු කුඩු, කහකුඩු වැනි සෙමිත කුළුබඩු"
+      ],
+      "en": [
+        "Light and easily digestible foods",
+        "Milk and wholesome grains",
+        "Liquid diets (rice water, buttermilk, gruel)",
+        "Cow ghee",
+        "Amla",
+        "Mild spices like fennel, cumin, turmeric"
+      ]
+    },
+    "apathya_diet": {
+      "si": [
+        "ඇඹුල් සහ ලුණු රස",
+        "කව්පි, බුලත්",
+        "මත්පැන්",
+        "අපවිත්‍ර ජලය/ආහාර",
+        "උණුසුම් කාලගුණ හෙවත් තද උණුසුම"
+      ],
+      "en": [
+        "Sour and salty foods",
+        "Black gram and betel nut",
+        "Alcohol",
+        "Contaminated food and water",
+        "Excess heat exposure"
+      ]
+    },
+    "pathya_vihara": {
+      "si": [
+        "සන්සුන් ජීවන රටාව",
+        "මානසික සංයමය",
+        "යෝගාභ්‍යාස"
+      ],
+      "en": [
+        "Calm lifestyle",
+        "Mental discipline",
+        "Regular yoga practice"
+      ]
+    },
+    "apathya_vihara": {
+      "si": [
+        "අධික කාර්යබහුලතාව",
+        "දහවල් නිදාගැනීම",
+        "කෝපය",
+        "ධූමපානය",
+        "ස්වාභාවික ආවේගයන් යටපත් කිරීම"
+      ],
+      "en": [
+        "Overworking",
+        "Daytime sleeping",
+        "Anger",
+        "Smoking",
+        "Suppressing natural urges"
+      ]
+    }
+  },
+  "prevention": {
+    "si": [
+      "පිත සන්සිඳෙන ආහාර",
+      "යෝග පුහුණු ක්‍රම",
+      "සන්සුන් ජීවන රටාව",
+      "අසාත්ම ආහාරවළින් වැළකීම",
+      "පිරිසිදු ජලය භාවිතය"
+    ],
+    "en": [
+      "Pitta-pacifying diet",
+      "Regular yogic practices",
+      "Calm lifestyle",
+      "Avoid incompatible foods",
+      "Use clean, hygienic water"
+    ]
+  },
+  "images": [],
+  "conclusion": {
+    "si": "අයුර්වේදික ශාක ඖෂධ, ආහාර රීති හා යෝග ප්‍රතිකාර මගින් වෛරස් හෙපටයිටිස් පාලනය කර, ලක්ෂණ අවම කර, යකඩ ක්‍රියාකාරීත්වය ප්‍රතිසාධනය කළ හැක.",
+    "en": "Ayurvedic herbal formulations, dietary regulation, and yogic therapies help manage viral hepatitis, reduce symptoms, and support liver recovery."
+  }
+}

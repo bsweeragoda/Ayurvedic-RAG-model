@@ -1,0 +1,198 @@
+{
+  "disease_id": "D005",
+  "disease": {
+    "si": "අනිද්‍රාව (නිදියන අසමත්භාවය)",
+    "en": "Anidra (Insomnia)"
+  },
+  "definition": {
+    "si": "අනිද්‍රාව යනු නිදා ගැනීමේ ප්‍රමාණය හෝ ගුණාත්මකභාවය අඩු වීමක් ඇති තත්ත්වයකි. මෙය වර්තමාන සමාජයේ ආතතිය, අධික කාර්යබහුලත්වය සහ තරඟකාරී ජීවන රටා නිසා ඇතිවන තත්වයකි.",
+    "en": "Anidra, or insomnia, is a condition characterized by reduced duration or quality of sleep, often resulting from persistent stress, heavy workload, and a competitive lifestyle."
+  },
+  "symptoms": {
+    "si": [
+      "ඈනුම් ඇරීම (ජෘම්භා)",
+      "නිදිමත (තන්ද්‍රා)",
+      "අංගමර්ද/අංගසාද",
+      "තෙහෙට්ටුව / විඩාව",
+      "හිසරදය",
+      "අවධානය අඩුවීම",
+      "මතක ශක්තිය අඩුවීම",
+      "ඉන්ද්‍රිය ක්‍රියාකාරීත්වය දුර්වල වීම",
+      "අජීර්ණය",
+      "මලබද්ධය",
+      "බර අඩුවීම",
+      "ශරීර දීප්තිය නැති වීම"
+    ],
+    "en": [
+      "Yawning (Jrimbha)",
+      "Drowsiness (Tandra)",
+      "Body ache / malaise (Angamarda)",
+      "Fatigue (Klama)",
+      "Headache (Sirahshoola)",
+      "Poor concentration (Manodourbalya)",
+      "Weak memory (Smritidourbalya)",
+      "Weak sensory perception",
+      "Indigestion (Ajirna)",
+      "Constipation",
+      "Weight loss (Dhatu kshaya)",
+      "Loss of body luster"
+    ]
+  },
+  "causes": {
+    "si": [
+      "මානසික ආතතිය",
+      "අධික කාර්‍යබහුලත්වය",
+      "සෞඛ්‍ය සම්පන්න නොවන ජීවන රටාව",
+      "ධාතු ක්ෂයය",
+      "අයුර්වේදයේ නින්දට බාධා කරන සාධක"
+    ],
+    "en": [
+      "Mental stress",
+      "Excessive workload",
+      "Unhealthy lifestyle",
+      "Dhatu depletion",
+      "Factors affecting sleep according to Ayurveda"
+    ]
+  },
+  "samprapti": {
+    "nidana": {
+      "si": "මානසික හා ශාරීරික ආතතිය, අහිතකර ආහාර හා ජීවන රටා",
+      "en": "Mental and physical stress, improper diet and lifestyle"
+    },
+    "dosha": {
+      "si": "වාත ප්‍රධාන දෝෂ",
+      "en": "Predominantly Vata dosha"
+    },
+    "dushya": {
+      "si": "ධාතු ක්ෂයය",
+      "en": "Dhatu depletion"
+    },
+    "srotas": {
+      "si": "මනෝවහ ශ්‍රෝතස්",
+      "en": "Manovaha srotas (mind channels)"
+    },
+    "agni": {
+      "si": "මඳග්නි (දීපන ශක්තිය අඩුවීම)",
+      "en": "Mandagni (weak digestive fire)"
+    }
+  },
+  "treatments": {
+    "basti": {
+      "si": [],
+      "en": []
+    },
+    "internal_medicines": {
+      "si": [
+        "මන්සයාදි කවාත",
+        "බ්‍රහ्मी ග්‍රිත",
+        "සරස්වත් ග්‍රිත"
+      ],
+      "en": [
+        "Mansyadi Kwatha",
+        "Brahmi Ghrita",
+        "Saraswata Ghrita"
+      ]
+    },
+    "external_therapies": {
+      "si": [
+        "ශිරෝධාරා සම්බාහනය",
+        "අබ්‍යංග (තෙල් සම්බාහනය)",
+        "පිණ්ඩ ස්වෙද (තැවුම් සම්බාහනය)"
+      ],
+      "en": [
+        "Shirodhara",
+        "Abhyanga (oil massage)",
+        "Pinda Sweda (bolus fomentation)"
+      ]
+    },
+    "physiotherapy": {
+      "si": [
+        "යෝගාභ්‍යාස (ෂවासन, වජ්‍රාසන, පශ්චිමෝත්තානසන)"
+      ],
+      "en": [
+        "Yogic practices (Shavasana, Vajrasana, Paschimottanasana)"
+      ]
+    },
+    "modern_medicine": {
+      "si": [
+        "සොල්පිඩෙම්",
+        "වෛද්‍යවරයෙකු විසින් නිර්දේශ කරනු ලබන අනෙකුත් මෝහන ඖෂධ"
+      ],
+      "en": [
+        "Zolpidem",
+        "Other hypnotics as advised by physician"
+      ]
+    }
+  },
+  "diet_and_lifestyle": {
+    "pathya_diet": {
+      "si": [
+        "පෝෂණීය ආහාර",
+        "කිරි සහ කිරිජ ආහාර",
+        "ධාන්‍ය ආහාර",
+        "වෙලාවට ආහාර ගැනීම"
+      ],
+      "en": [
+        "Nutritious meals",
+        "Milk and dairy",
+        "Cereal-based diet",
+        "Eating on time"
+      ]
+    },
+    "apathya_diet": {
+      "si": [
+        "සැර වැඩි ආහාර",
+        "රසකාරක වැඩි ආහාර",
+        "අධික කෝපි සහ තේ"
+      ],
+      "en": [
+        "Highly spicy foods",
+        "Artificial-flavored foods",
+        "Excess coffee or tea"
+      ]
+    },
+    "pathya_vihara": {
+      "si": [
+        "මානසික විවේකය",
+        "දෛනික චර්යාවන් පවත්වා ගැනීම",
+        "නියමිත වේලාවක් නිදා ගැනීම"
+      ],
+      "en": [
+        "Mental relaxation",
+        "Maintaining daily routines",
+        "Sleeping at regular hours"
+      ]
+    },
+    "apathya_vihara": {
+      "si": [
+        "ප්‍රමාද වී නිදා ගැනීම",
+        "අධික කාර්‍යබහුලත්වය",
+        "මානසික ආතතිය"
+      ],
+      "en": [
+        "Sleeping late at night",
+        "Excessive workload",
+        "Mental stress"
+      ]
+    }
+  },
+  "prevention": {
+    "si": [
+      "නිසි ආහාර රටාව",
+      "ප්‍රමාණවත් නින්දක් ලබා ගැනීම",
+      "සෞඛ්‍ය සම්පන්න පුරුදු අනුගමනය කිරීම",
+      "මානසික සන්සුන්භාවය"
+    ],
+    "en": [
+      "Balanced diet",
+      "Adequate sleep",
+      "Adopting healthy routines",
+      "Mental calmness"
+    ]
+  },
+  "images": [],
+  "conclusion": {
+    "si": "අනිද්‍රාව නිසා ජීවිතයේ ගුණාත්මකභාවය පහළ යා හැකි බැවින්, අයුර්වේද ප්‍රතිකාර, නිසි ආහාර සහ ජීවන රටාව කළමනාකරණය අත්‍යාවශ්‍යය.",
+    "en": "Insomnia significantly affects quality of life; hence Ayurvedic treatments, proper diet, and lifestyle regulation are essential for effective management."
+  }
+}

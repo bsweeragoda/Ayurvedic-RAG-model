@@ -1,0 +1,125 @@
+{
+  "disease_id": "D001",
+  "disease": {
+    "si": "තරුණ්‍ය පිටිකා (මුඛදූෂිකා)",
+    "en": "Tarunya Pitika (Acne vulgaris)"
+  },
+  "definition": {
+    "si": "අයුර්වේදය අනුව තරුණ වියේදී මුහුණේ ඇතිවන පිටිකා තරුණ්‍ය පිටිකා හෝ මුඛදූෂිකා ලෙස හැඳින්වෙයි.",
+    "en": "In Ayurveda, acne vulgaris is described as 'Tarunya Pitika' or 'Mukhadusika', referring to adolescent facial eruptions."
+  },
+  "symptoms": {
+    "si": [
+      "මුහුණේ හටගන්නා කුරුලෑ සහ බිබිලි (කුඩා ගැටිති, රතු පැහැති බිබිලි, සැරව සහිත බිබිලි ලෙස වර්ග කළ හැක)",
+      "තෙල් සහිත සම / සමේ තෙල් ගතිය",
+      "ප්‍රදාහය සහිත (ඉදිමුණු/රතු පැහැති) කුරුලෑ",
+      "කළු ලප",
+      "සමේ අධික තෙල් ගතිය (සෙබෝරියාව) / මේද ස්‍රාවී චර්ම රෝගය"
+    ],
+    "en": [
+      "Facial eruptions (comedones, papules, pustules)",
+      "Oily skin",
+      "Inflamed pimples",
+      "Blackheads",
+      "Seborrhea (greasy skin)"
+    ]
+  },
+  "causes": {
+    "si": [
+      "රෝම කූප සහ ඊට සම්බන්ධ තෙල් ග්‍රන්ථි වල ආබාධය / රෝගී තත්ත්වය",
+      "රස සහ රක්ත ධාතූන් දූෂණය වීම (මෙහිදී රස ධාතුව යනු ප්ලාස්මාව/පෝෂක තරලය ලෙසත්, රක්ත ධාතුව යනු රුධිරය ලෙසත් සරලව දැක්විය හැක)",
+      "වාත, පිත්ත, කඵ යන ත්‍රිදෝෂයන් කෝප වීම",
+      "තෙල් සහිත, සැර සහ කුළුබඩු අධික ආහාර වැඩිපුර ගැනීම",
+      "පාරිසරික බලපෑම් සහ පීඩන / පරිසරයෙන් එල්ල වන අහිතකර බලපෑම්"
+    ],
+    "en": [
+      "Disorder of pilosebaceous units",
+      "Vitiation of Rasa and Rakta dhatus",
+      "Aggravation of Vata, Pitta, and Kapha doshas",
+      "Excessive intake of oily/spicy foods",
+      "Environmental stressors"
+    ]
+  },
+  "samprapti": {
+    "nidana": {
+      "si": "පිත සහ රක්ත දෝෂය අතිශයින් විකෘත වීම",
+      "en": "Vitiation of Pitta and Rakta doshas"
+    },
+    "dosha": {
+      "si": "පිත, කප",
+      "en": "Pitta, Kapha"
+    },
+    "dushya": {
+      "si": "රස, රක්ත",
+      "en": "Rasa, Rakta"
+    },
+    "srotas": {
+      "si": "රසවහිනි, රක්තවහිනි",
+      "en": "Rasavaha, Raktavaha srotas"
+    },
+    "agni": {
+      "si": "අග්නි විකෘතිය",
+      "en": "Agni (digestive fire) disturbance"
+    }
+  },
+  "treatments": {
+    "basti": {
+      "si": ["තික්තක්ෂීර බස්ති"],
+      "en": ["Tikta Ksheera Basti"]
+    },
+    "internal_medicines": {
+      "si": ["සුන්දර් වටි", "තිඕස්තානින්", "සුක්ෂ්ම ත්‍රිපහළ", "ගුග්ගුළු"],
+      "en": ["Sunder Vati", "Thiostanin", "Sookshma Triphala", "Guggulu"]
+    },
+    "external_therapies": {
+      "si": ["ඖෂධීය ක්‍රීම්", "ඖෂධීය ජෙල්", "මුහුණු ආලේප", " මුහුණ පිරිසිදු කිරීමේ පිළිවෙත්"],
+      "en": ["Herbal creams", "Herbal gels", "Face packs", "Cleansing routines"]
+    },
+    "physiotherapy": {
+      "si": ["නෑවීමේ ක්‍රියාමාර්ග (උණුසුම් ජලය, ඖෂධීය වාෂ්පය)"],
+      "en": ["Cleansing protocols (warm water, herbal steam)"]
+    }
+  },
+  "diet_and_lifestyle": {
+    "pathya_diet": {
+      "si": ["සැහැල්ලු ආහාර", "පහසුවෙන් දිරවන ආහාර / දිරවීමට පහසු ආහාර", "උණුසුම් ජලය / මද රස්නය ඇති වතුර"],
+      "en": ["Light food", "Easily digestible food", "Warm water"]
+    },
+    "apathya_diet": {
+      "si": ["සැර, තෙල් සහිත, උෂ්ණාධික සහ මාංශ ආහාර"],
+      "en": ["Spicy, oily, hot and meat-based food"]
+    },
+    "pathya_vihara": {
+      "si": ["නිසි නින්ද", "නිතර මුහුණ සේදීම", "නිරෝගී චර්යාව"],
+      "en": ["Adequate sleep", "Regular face washing", "Clean lifestyle habits"]
+    },
+    "apathya_vihara": {
+      "si": ["ප්‍රමාද වී නින්දට යෑම", "ආලේපන භාවිතය", "අධික මානසික ආතතිය"],
+      "en": ["Late sleeping", "Use of cosmetics", "Excessive mental stress"]
+    }
+  },
+  "prevention": {
+    "si": [
+      "වියළි ගුණැති ආහාර සඳහා යොමු වීම",
+      "මුහුණේ පිරිසිදුකම පවත්වා ගැනීම ",
+      "තෙල් සහිත ආහාර වලින් වැළකීම",
+      "මානසික විනය"
+    ],
+    "en": [
+      "Preference for dry foods",
+      "Maintaining facial hygiene",
+      "Avoiding oily foods",
+      "Mental discipline"
+    ]
+  },
+  "images": [
+    {
+      "title": "Acne Symptoms Diagram",
+      "file": "images/acne_symptoms_1.jpg"
+    }
+  ],
+  "conclusion": {
+    "si": "තාරුණ්‍ය පීටිකා යනු, පිත සහ කප යන දෝෂයන් දූෂණය වීම (කෝප වීම) නිසා ඇතිවන තත්ත්වයකි. මෙය ඵලදායීව පාලනය කිරීම සඳහා ආයුර්වේද ප්‍රතිකාර, නිවැරදි ආහාර රටාව සහ ජීවන රටාවේ වෙනස්කම් සිදු කිරීම අත්‍යවශ්‍ය වේ.",
+    "en": "Tarunya Pitika results from vitiated Pitta and Kapha doshas. Ayurvedic treatment, diet, and lifestyle modifications are key to effective management."
+  }
+}

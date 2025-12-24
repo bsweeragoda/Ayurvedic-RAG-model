@@ -1,0 +1,171 @@
+{
+  "disease_id": "D010",
+  "disease": {
+    "si": "චර්මකීල (වට්ටු)",
+    "en": "Charmakeela (Warts)"
+  },
+  "definition": {
+    "si": "චර්මකීල යනු සම මතුපිට හටගන්නා ඇණයක් වැනි දැඩි ගැටිතිවලින් යුත් වර්ධනයකි. නවීන වෛද්‍ය විද්‍යාවේදී මෙය HPV වෛරසයක් මගින් ඇතිවන 'Warts' තත්ත්වයට සමාන වේ.",
+    "en": "Charmakeela refers to nail-like, hard, protruding growths on the skin, corresponding to HPV-induced warts in modern medicine."
+  },
+  "symptoms": {
+    "si": [
+      "සම මතුපිට උස් වූ දැඩි ගැටිති",
+      "ඇණයක් මෙන් ඉස්මතු වීම",
+      "සාමාන්‍යයෙන් වේදනා රහිත (තුවාල නොවූ විට)",
+      "දිගුකාලීන පවතිීම",
+      "අප්‍රසන්න පෙනුම"
+    ],
+    "en": [
+      "Hard elevated skin growths",
+      "Nail-like projections",
+      "Generally painless unless injured",
+      "Long-standing lesions",
+      "Unpleasant appearance"
+    ]
+  },
+  "causes": {
+    "si": [
+      "කප-වාත විකෘති වීම",
+      "HPV වෛරස ආසාදනය",
+      "සනීපාරක්ෂණයේ හිඟය",
+      "සමීප සම්ප්‍රේෂණය"
+    ],
+    "en": [
+      "Kapha-Vata vitiation",
+      "HPV viral infection",
+      "Poor hygiene",
+      "Contact transmission"
+    ]
+  },
+  "samprapti": {
+    "nidana": {
+      "si": "වාත-කප දෝෂය උත්සාදනය කරන හේතු",
+      "en": "Vata-Kapha aggravating causes"
+    },
+    "dosha": {
+      "si": "වාත, කප",
+      "en": "Vata, Kapha"
+    },
+    "dushya": {
+      "si": "රක්ත, ත්වක්, මාංස",
+      "en": "Rakta, Twak, Mamsa"
+    },
+    "srotas": {
+      "si": "රක්ත වහ ශ්‍රෝථ, ත්වක් වහ ශ්‍රෝථ",
+      "en": "Raktavaha and Twakvaha srotas"
+    },
+    "agni": {
+      "si": "මාන්දාග්නි",
+      "en": "Mandagni (low digestive/metabolic fire)"
+    }
+  },
+  "treatments": {
+    "basti": {
+      "si": [],
+      "en": []
+    },
+    "internal_medicines": {
+      "si": [
+        "කාමදූධාරස",
+        "කත්ෆාදී කවාථ",
+        "ත්‍රිමාදුරා දිගෙස්ටිය",
+        "සන්ජීවනී වටි"
+      ],
+      "en": [
+        "Kamadoodh Rasa",
+        "Katphadi Kwatha",
+        "Trimadhu digestive herbs",
+        "Sanjivani Vati"
+      ]
+    },
+    "external_therapies": {
+      "si": [
+        "ක්ෂාරකර්ම (Alkali cauterization)",
+        "අග්නි කර්ම (thermal cauterization)",
+        "පලිත කර්ම (chemical application)"
+      ],
+      "en": [
+        "Ksharakarma (alkali cauterization)",
+        "Agnikarma (heat cauterization)",
+        "Chemical lesion removal"
+      ]
+    },
+    "physiotherapy": {
+      "si": [],
+      "en": []
+    }
+  },
+  "diet_and_lifestyle": {
+    "pathya_diet": {
+      "si": [
+        "ලෙහෙසීමෙන් දිරන ආහාර",
+        "කසාවු සහ ටිකක් තිතැති රස",
+        "නිර්මාංශ ආහාර"
+      ],
+      "en": [
+        "Easily digestible foods",
+        "Astringent and mildly bitter diet",
+        "Vegetarian diet"
+      ]
+    },
+    "apathya_diet": {
+      "si": [
+        "තෙල් සහ බැදපු ආහාර",
+        "අධික පැණිරස සහ ලුණු",
+        "කප කෝප කරන ආහාර"
+      ],
+      "en": [
+        "Oily and fried foods",
+        "Excess sweets and salt",
+        "Kapha-aggravating foods"
+      ]
+    },
+    "pathya_vihara": {
+      "si": [
+        "නියමිත හෙදීම",
+        "සනීපාරක්ෂණය",
+        "මද ශාරීරික කටයුතු"
+      ],
+      "en": [
+        "Proper cleansing",
+        "Good hygiene practices",
+        "Moderate physical activity"
+      ]
+    },
+    "apathya_vihara": {
+      "si": [
+        "අනාරක්ෂිත ස්පර්ශ",
+        "අධික තෙල් බහී සම ප්‍රතිකාර",
+        "අපිරිසිදු පරිසර"
+      ],
+      "en": [
+        "Contact with infected areas",
+        "Excess oily skin applications",
+        "Unclean environments"
+      ]
+    }
+  },
+  "prevention": {
+    "si": [
+      "සනීපාරක්ෂණය පවත්වා ගැනීම",
+      "අනිසි ස්පර්ෂ වලින් වැළකීම",
+      "වාත-කප දෝෂ පාලනය"
+    ],
+    "en": [
+      "Maintain strict hygiene",
+      "Avoid contact transmission",
+      "Keep Vata-Kapha in balance"
+    ]
+  },
+  "images": [ 
+    {
+      "title": "Warts Symptoms Diagram",
+      "file": "images/warts_symptoms_1.jpg"
+    }
+  ],
+  "conclusion": {
+    "si": "චර්මකීල (Warts) සඳහා ආයුර්වේදයේ ක්ෂාරකර්ම, අග්නි කර්ම යන බාහිර ප්‍රතිකාරද, අභ්‍යන්තර ඖෂධ මඟින් ද සාර්ථක ප්‍රතිඵල ලබා ගත හැක.",
+    "en": "Charmakeela (warts) can be effectively treated in Ayurveda using Ksharakarma, Agnikarma, and appropriate internal medications."
+  }
+}
