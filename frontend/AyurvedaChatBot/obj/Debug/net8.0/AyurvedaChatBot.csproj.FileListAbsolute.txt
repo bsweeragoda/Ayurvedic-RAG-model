@@ -1,0 +1,87 @@
+E:\Level 04\Research Final Year\Ayurweda\AyurvedaChatBot\AyurvedaChatBot\bin\Debug\net8.0\appsettings.Development.json
+E:\Level 04\Research Final Year\Ayurweda\AyurvedaChatBot\AyurvedaChatBot\bin\Debug\net8.0\appsettings.json
+E:\Level 04\Research Final Year\Ayurweda\AyurvedaChatBot\AyurvedaChatBot\bin\Debug\net8.0\AyurvedaChatBot.staticwebassets.runtime.json
+E:\Level 04\Research Final Year\Ayurweda\AyurvedaChatBot\AyurvedaChatBot\bin\Debug\net8.0\AyurvedaChatBot.staticwebassets.endpoints.json
+E:\Level 04\Research Final Year\Ayurweda\AyurvedaChatBot\AyurvedaChatBot\bin\Debug\net8.0\AyurvedaChatBot.exe
+E:\Level 04\Research Final Year\Ayurweda\AyurvedaChatBot\AyurvedaChatBot\bin\Debug\net8.0\AyurvedaChatBot.deps.json
+E:\Level 04\Research Final Year\Ayurweda\AyurvedaChatBot\AyurvedaChatBot\bin\Debug\net8.0\AyurvedaChatBot.runtimeconfig.json
+E:\Level 04\Research Final Year\Ayurweda\AyurvedaChatBot\AyurvedaChatBot\bin\Debug\net8.0\AyurvedaChatBot.dll
+E:\Level 04\Research Final Year\Ayurweda\AyurvedaChatBot\AyurvedaChatBot\bin\Debug\net8.0\AyurvedaChatBot.pdb
+E:\Level 04\Research Final Year\Ayurweda\AyurvedaChatBot\AyurvedaChatBot\obj\Debug\net8.0\rpswa.dswa.cache.json
+E:\Level 04\Research Final Year\Ayurweda\AyurvedaChatBot\AyurvedaChatBot\obj\Debug\net8.0\AyurvedaChatBot.GeneratedMSBuildEditorConfig.editorconfig
+E:\Level 04\Research Final Year\Ayurweda\AyurvedaChatBot\AyurvedaChatBot\obj\Debug\net8.0\AyurvedaChatBot.AssemblyInfoInputs.cache
+E:\Level 04\Research Final Year\Ayurweda\AyurvedaChatBot\AyurvedaChatBot\obj\Debug\net8.0\AyurvedaChatBot.AssemblyInfo.cs
+E:\Level 04\Research Final Year\Ayurweda\AyurvedaChatBot\AyurvedaChatBot\obj\Debug\net8.0\AyurvedaChatBot.csproj.CoreCompileInputs.cache
+E:\Level 04\Research Final Year\Ayurweda\AyurvedaChatBot\AyurvedaChatBot\obj\Debug\net8.0\AyurvedaChatBot.MvcApplicationPartsAssemblyInfo.cache
+E:\Level 04\Research Final Year\Ayurweda\AyurvedaChatBot\AyurvedaChatBot\obj\Debug\net8.0\AyurvedaChatBot.RazorAssemblyInfo.cache
+E:\Level 04\Research Final Year\Ayurweda\AyurvedaChatBot\AyurvedaChatBot\obj\Debug\net8.0\AyurvedaChatBot.RazorAssemblyInfo.cs
+E:\Level 04\Research Final Year\Ayurweda\AyurvedaChatBot\AyurvedaChatBot\obj\Debug\net8.0\rjimswa.dswa.cache.json
+E:\Level 04\Research Final Year\Ayurweda\AyurvedaChatBot\AyurvedaChatBot\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+E:\Level 04\Research Final Year\Ayurweda\AyurvedaChatBot\AyurvedaChatBot\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+E:\Level 04\Research Final Year\Ayurweda\AyurvedaChatBot\AyurvedaChatBot\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\Level 04\Research Final Year\Ayurweda\AyurvedaChatBot\AyurvedaChatBot\obj\Debug\net8.0\scopedcss\bundle\AyurvedaChatBot.styles.css
+E:\Level 04\Research Final Year\Ayurweda\AyurvedaChatBot\AyurvedaChatBot\obj\Debug\net8.0\scopedcss\projectbundle\AyurvedaChatBot.bundle.scp.css
+E:\Level 04\Research Final Year\Ayurweda\AyurvedaChatBot\AyurvedaChatBot\obj\Debug\net8.0\staticwebassets.build.json
+E:\Level 04\Research Final Year\Ayurweda\AyurvedaChatBot\AyurvedaChatBot\obj\Debug\net8.0\staticwebassets.build.json.cache
+E:\Level 04\Research Final Year\Ayurweda\AyurvedaChatBot\AyurvedaChatBot\obj\Debug\net8.0\staticwebassets.development.json
+E:\Level 04\Research Final Year\Ayurweda\AyurvedaChatBot\AyurvedaChatBot\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+E:\Level 04\Research Final Year\Ayurweda\AyurvedaChatBot\AyurvedaChatBot\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+E:\Level 04\Research Final Year\Ayurweda\AyurvedaChatBot\AyurvedaChatBot\obj\Debug\net8.0\AyurvedaChatBot.dll
+E:\Level 04\Research Final Year\Ayurweda\AyurvedaChatBot\AyurvedaChatBot\obj\Debug\net8.0\refint\AyurvedaChatBot.dll
+E:\Level 04\Research Final Year\Ayurweda\AyurvedaChatBot\AyurvedaChatBot\obj\Debug\net8.0\AyurvedaChatBot.pdb
+E:\Level 04\Research Final Year\Ayurweda\AyurvedaChatBot\AyurvedaChatBot\obj\Debug\net8.0\AyurvedaChatBot.genruntimeconfig.cache
+E:\Level 04\Research Final Year\Ayurweda\AyurvedaChatBot\AyurvedaChatBot\obj\Debug\net8.0\ref\AyurvedaChatBot.dll
+E:\Level 04\Research Final Year\Ayurweda\AyurvedaChatBot\AyurvedaChatBot\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Level 04\Research Final Year\Ayurweda\AyurvedaChatBot\AyurvedaChatBot\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+E:\Level 04\Research Final Year\Ayurweda\AyurvedaChatBot\AyurvedaChatBot\bin\Debug\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
+E:\Level 04\Research Final Year\Ayurweda\AyurvedaChatBot\AyurvedaChatBot\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Level 04\Research Final Year\Ayurweda\AyurvedaChatBot\AyurvedaChatBot\bin\Debug\net8.0\Microsoft.Extensions.ObjectPool.dll
+E:\Level 04\Research Final Year\Ayurweda\AyurvedaChatBot\AyurvedaChatBot\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+E:\Level 04\Research Final Year\Ayurweda\AyurvedaChatBot\AyurvedaChatBot\bin\Debug\net8.0\Newtonsoft.Json.dll
+E:\Level 04\Research Final Year\Ayurweda\AyurvedaChatBot\AyurvedaChatBot\bin\Debug\net8.0\System.Net.WebSockets.WebSocketProtocol.dll
+E:\Level 04\Research Final Year\Ayurweda\AyurvedaChatBot\AyurvedaChatBot\obj\Debug\net8.0\AyurvedaChatBot.csproj.AssemblyReference.cache
+E:\Level 04\Research Final Year\Ayurweda\AyurvedaChatBot\AyurvedaChatBot\obj\Debug\net8.0\Ayurveda.00C97233.Up2Date
+E:\Level 04\Research Final Year\Ayurvedic ChatBot\Ayurvedic-RAG-model\frontend\AyurvedaChatBot\bin\Debug\net8.0\appsettings.Development.json
+E:\Level 04\Research Final Year\Ayurvedic ChatBot\Ayurvedic-RAG-model\frontend\AyurvedaChatBot\bin\Debug\net8.0\appsettings.json
+E:\Level 04\Research Final Year\Ayurvedic ChatBot\Ayurvedic-RAG-model\frontend\AyurvedaChatBot\bin\Debug\net8.0\AyurvedaChatBot.staticwebassets.endpoints.json
+E:\Level 04\Research Final Year\Ayurvedic ChatBot\Ayurvedic-RAG-model\frontend\AyurvedaChatBot\bin\Debug\net8.0\AyurvedaChatBot.staticwebassets.runtime.json
+E:\Level 04\Research Final Year\Ayurvedic ChatBot\Ayurvedic-RAG-model\frontend\AyurvedaChatBot\bin\Debug\net8.0\AyurvedaChatBot.exe
+E:\Level 04\Research Final Year\Ayurvedic ChatBot\Ayurvedic-RAG-model\frontend\AyurvedaChatBot\bin\Debug\net8.0\AyurvedaChatBot.deps.json
+E:\Level 04\Research Final Year\Ayurvedic ChatBot\Ayurvedic-RAG-model\frontend\AyurvedaChatBot\bin\Debug\net8.0\AyurvedaChatBot.runtimeconfig.json
+E:\Level 04\Research Final Year\Ayurvedic ChatBot\Ayurvedic-RAG-model\frontend\AyurvedaChatBot\bin\Debug\net8.0\AyurvedaChatBot.dll
+E:\Level 04\Research Final Year\Ayurvedic ChatBot\Ayurvedic-RAG-model\frontend\AyurvedaChatBot\bin\Debug\net8.0\AyurvedaChatBot.pdb
+E:\Level 04\Research Final Year\Ayurvedic ChatBot\Ayurvedic-RAG-model\frontend\AyurvedaChatBot\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Level 04\Research Final Year\Ayurvedic ChatBot\Ayurvedic-RAG-model\frontend\AyurvedaChatBot\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+E:\Level 04\Research Final Year\Ayurvedic ChatBot\Ayurvedic-RAG-model\frontend\AyurvedaChatBot\bin\Debug\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
+E:\Level 04\Research Final Year\Ayurvedic ChatBot\Ayurvedic-RAG-model\frontend\AyurvedaChatBot\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Level 04\Research Final Year\Ayurvedic ChatBot\Ayurvedic-RAG-model\frontend\AyurvedaChatBot\bin\Debug\net8.0\Microsoft.Extensions.ObjectPool.dll
+E:\Level 04\Research Final Year\Ayurvedic ChatBot\Ayurvedic-RAG-model\frontend\AyurvedaChatBot\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+E:\Level 04\Research Final Year\Ayurvedic ChatBot\Ayurvedic-RAG-model\frontend\AyurvedaChatBot\bin\Debug\net8.0\Newtonsoft.Json.dll
+E:\Level 04\Research Final Year\Ayurvedic ChatBot\Ayurvedic-RAG-model\frontend\AyurvedaChatBot\bin\Debug\net8.0\System.Net.WebSockets.WebSocketProtocol.dll
+E:\Level 04\Research Final Year\Ayurvedic ChatBot\Ayurvedic-RAG-model\frontend\AyurvedaChatBot\obj\Debug\net8.0\AyurvedaChatBot.csproj.AssemblyReference.cache
+E:\Level 04\Research Final Year\Ayurvedic ChatBot\Ayurvedic-RAG-model\frontend\AyurvedaChatBot\obj\Debug\net8.0\rpswa.dswa.cache.json
+E:\Level 04\Research Final Year\Ayurvedic ChatBot\Ayurvedic-RAG-model\frontend\AyurvedaChatBot\obj\Debug\net8.0\AyurvedaChatBot.GeneratedMSBuildEditorConfig.editorconfig
+E:\Level 04\Research Final Year\Ayurvedic ChatBot\Ayurvedic-RAG-model\frontend\AyurvedaChatBot\obj\Debug\net8.0\AyurvedaChatBot.AssemblyInfoInputs.cache
+E:\Level 04\Research Final Year\Ayurvedic ChatBot\Ayurvedic-RAG-model\frontend\AyurvedaChatBot\obj\Debug\net8.0\AyurvedaChatBot.AssemblyInfo.cs
+E:\Level 04\Research Final Year\Ayurvedic ChatBot\Ayurvedic-RAG-model\frontend\AyurvedaChatBot\obj\Debug\net8.0\AyurvedaChatBot.csproj.CoreCompileInputs.cache
+E:\Level 04\Research Final Year\Ayurvedic ChatBot\Ayurvedic-RAG-model\frontend\AyurvedaChatBot\obj\Debug\net8.0\AyurvedaChatBot.MvcApplicationPartsAssemblyInfo.cache
+E:\Level 04\Research Final Year\Ayurvedic ChatBot\Ayurvedic-RAG-model\frontend\AyurvedaChatBot\obj\Debug\net8.0\AyurvedaChatBot.RazorAssemblyInfo.cache
+E:\Level 04\Research Final Year\Ayurvedic ChatBot\Ayurvedic-RAG-model\frontend\AyurvedaChatBot\obj\Debug\net8.0\AyurvedaChatBot.RazorAssemblyInfo.cs
+E:\Level 04\Research Final Year\Ayurvedic ChatBot\Ayurvedic-RAG-model\frontend\AyurvedaChatBot\obj\Debug\net8.0\AyurvedaChatBot.sourcelink.json
+E:\Level 04\Research Final Year\Ayurvedic ChatBot\Ayurvedic-RAG-model\frontend\AyurvedaChatBot\obj\Debug\net8.0\rjimswa.dswa.cache.json
+E:\Level 04\Research Final Year\Ayurvedic ChatBot\Ayurvedic-RAG-model\frontend\AyurvedaChatBot\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+E:\Level 04\Research Final Year\Ayurvedic ChatBot\Ayurvedic-RAG-model\frontend\AyurvedaChatBot\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+E:\Level 04\Research Final Year\Ayurvedic ChatBot\Ayurvedic-RAG-model\frontend\AyurvedaChatBot\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\Level 04\Research Final Year\Ayurvedic ChatBot\Ayurvedic-RAG-model\frontend\AyurvedaChatBot\obj\Debug\net8.0\scopedcss\bundle\AyurvedaChatBot.styles.css
+E:\Level 04\Research Final Year\Ayurvedic ChatBot\Ayurvedic-RAG-model\frontend\AyurvedaChatBot\obj\Debug\net8.0\scopedcss\projectbundle\AyurvedaChatBot.bundle.scp.css
+E:\Level 04\Research Final Year\Ayurvedic ChatBot\Ayurvedic-RAG-model\frontend\AyurvedaChatBot\obj\Debug\net8.0\staticwebassets.build.json
+E:\Level 04\Research Final Year\Ayurvedic ChatBot\Ayurvedic-RAG-model\frontend\AyurvedaChatBot\obj\Debug\net8.0\staticwebassets.build.json.cache
+E:\Level 04\Research Final Year\Ayurvedic ChatBot\Ayurvedic-RAG-model\frontend\AyurvedaChatBot\obj\Debug\net8.0\staticwebassets.development.json
+E:\Level 04\Research Final Year\Ayurvedic ChatBot\Ayurvedic-RAG-model\frontend\AyurvedaChatBot\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+E:\Level 04\Research Final Year\Ayurvedic ChatBot\Ayurvedic-RAG-model\frontend\AyurvedaChatBot\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+E:\Level 04\Research Final Year\Ayurvedic ChatBot\Ayurvedic-RAG-model\frontend\AyurvedaChatBot\obj\Debug\net8.0\Ayurveda.00C97233.Up2Date
+E:\Level 04\Research Final Year\Ayurvedic ChatBot\Ayurvedic-RAG-model\frontend\AyurvedaChatBot\obj\Debug\net8.0\AyurvedaChatBot.dll
+E:\Level 04\Research Final Year\Ayurvedic ChatBot\Ayurvedic-RAG-model\frontend\AyurvedaChatBot\obj\Debug\net8.0\refint\AyurvedaChatBot.dll
+E:\Level 04\Research Final Year\Ayurvedic ChatBot\Ayurvedic-RAG-model\frontend\AyurvedaChatBot\obj\Debug\net8.0\AyurvedaChatBot.pdb
+E:\Level 04\Research Final Year\Ayurvedic ChatBot\Ayurvedic-RAG-model\frontend\AyurvedaChatBot\obj\Debug\net8.0\AyurvedaChatBot.genruntimeconfig.cache
+E:\Level 04\Research Final Year\Ayurvedic ChatBot\Ayurvedic-RAG-model\frontend\AyurvedaChatBot\obj\Debug\net8.0\ref\AyurvedaChatBot.dll

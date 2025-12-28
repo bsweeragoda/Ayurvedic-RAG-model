@@ -34,3 +34,6 @@ npm-debug.log*
 # OS files
 .DS_Store
 *.tmp
+
+# Visual Studio
+.vs/
