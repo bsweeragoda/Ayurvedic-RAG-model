@@ -1,0 +1,48 @@
+﻿@{
+    ViewData["Title"] = "AyurvedaBot - Ayurvedic Health Assistant";
+    Layout = "_Layout";
+}
+
+<div class="container mt-4">
+    <div class="row justify-content-center">
+        <div class="col-md-8">
+            <div class="card">
+                <div class="card-header bg-success text-white">
+                    <h4 class="mb-0 text-center">🌿 AyurvedaBot - Ayurvedic Health Assistant</h4>
+                </div>
+                <div class="card-body">
+                    <!-- Chat Messages Container -->
+                    <div id="chatMessages" class="chat-messages" style="height: 400px; overflow-y: auto; border: 1px solid #ddd; padding: 15px; margin-bottom: 15px;">
+                        <div class="bot-message alert alert-info">
+                            <strong>Bot:</strong> Welcome! I'm your Ayurvedic health assistant. You can describe your symptoms in English or Sinhala, or upload an image of skin condition for analysis.
+                        </div>
+                    </div>
+
+                    <!-- Input Area -->
+                    <div class="input-group">
+                        <textarea id="messageInput" class="form-control" placeholder="Describe your symptoms in English or Sinhala..." rows="2"></textarea>
+                        <button id="sendButton" class="btn btn-success">Send</button>
+                    </div>
+
+                    <!-- Image Upload -->
+                    <div class="mt-3">
+                        <label class="form-label">Or upload skin condition image:</label>
+                        <input type="file" id="imageInput" class="form-control" accept="image/*">
+                    </div>
+
+                    <!-- Language Selection -->
+                    <div class="form-check mt-3">
+                        <input class="form-check-input" type="checkbox" id="sinhalaMode">
+                        <label class="form-check-label" for="sinhalaMode">
+                            Sinhala Mode (සිංහල මාදිලිය)
+                        </label>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    <script src="~/js/chat.js"></script>
+}
