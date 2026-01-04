@@ -1480,23 +1480,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\ASUS\\.nuget\\packages\\": {},
+    "C:\\Users\\Rivindu\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Uni Videos\\Academic Notes\\4th YEAR\\2nd Sem\\Research\\frontend\\AyurvedaChatBot\\AyurvedaChatBot.csproj",
+      "projectUniqueName": "E:\\Level 04\\Research Final Year\\Ayurvedic ChatBot\\Ayurvedic-RAG-model\\frontend\\AyurvedaChatBot\\AyurvedaChatBot.csproj",
       "projectName": "AyurvedaChatBot",
-      "projectPath": "E:\\Uni Videos\\Academic Notes\\4th YEAR\\2nd Sem\\Research\\frontend\\AyurvedaChatBot\\AyurvedaChatBot.csproj",
-      "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-      "outputPath": "E:\\Uni Videos\\Academic Notes\\4th YEAR\\2nd Sem\\Research\\frontend\\AyurvedaChatBot\\obj\\",
+      "projectPath": "E:\\Level 04\\Research Final Year\\Ayurvedic ChatBot\\Ayurvedic-RAG-model\\frontend\\AyurvedaChatBot\\AyurvedaChatBot.csproj",
+      "packagesPath": "C:\\Users\\Rivindu\\.nuget\\packages\\",
+      "outputPath": "E:\\Level 04\\Research Final Year\\Ayurvedic ChatBot\\Ayurvedic-RAG-model\\frontend\\AyurvedaChatBot\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Rivindu\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -1523,7 +1523,7 @@
         "auditLevel": "low",
         "auditMode": "direct"
       },
-      "SdkAnalysisLevel": "9.0.100"
+      "SdkAnalysisLevel": "9.0.300"
     },
     "frameworks": {
       "net8.0": {
@@ -1557,7 +1557,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
