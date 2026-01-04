@@ -1,5 +1,4 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using AyurBotFrontend.Models;
 using AyurBotFrontend.Services;
 
 namespace AyurBotFrontend.Controllers
@@ -13,60 +12,44 @@ namespace AyurBotFrontend.Controllers
             _chatService = chatService;
         }
 
+        // Load chat UI
         public IActionResult Index()
         {
             return View();
         }
 
+        // Receive message from frontend JS
         [HttpPost]
-        public async Task<IActionResult> SendMessage(string message, IFormFile image)
+        public async Task<IActionResult> SendMessage([FromBody] ChatRequest request)
         {
-            try
+            if (request == null || string.IsNullOrWhiteSpace(request.Question))
             {
-                ApiResponse response;
-
-                if (image != null)
+                return BadRequest(new
                 {
-                    // Handle image analysis
-                    response = await _chatService.SendImageToAnalysis(image);
-                }
-                else if (!string.IsNullOrEmpty(message))
-                {
-                    // Handle text message
-                    // Check if message is in Sinhala
-                    if (ContainsSinhala(message))
-                    {
-                        var englishText = await _chatService.TranslateToEnglish(message);
-                        response = await _chatService.SendTextToAnalysis(englishText);
-
-                        // Translate response back to Sinhala
-                        if (response.Success && !string.IsNullOrEmpty(response.Message))
-                        {
-                            response.Message = await _chatService.TranslateToSinhala(response.Message);
-                        }
-                    }
-                    else
-                    {
-                        response = await _chatService.SendTextToAnalysis(message);
-                    }
-                }
-                else
-                {
-                    response = new ApiResponse { Success = false, Message = "Please provide either text or image." };
-                }
-
-                return Json(response);
+                    answer = "Please enter a valid message."
+                });
             }
-            catch (Exception ex)
+
+            var response = await _chatService.SendToRag(request.Question);
+
+            if (!response.Success)
             {
-                return Json(new ApiResponse { Success = false, Message = $"Error: {ex.Message}" });
+                return StatusCode(500, new
+                {
+                    answer = "Failed to process your request."
+                });
             }
-        }
 
-        private bool ContainsSinhala(string text)
-        {
-            // Simple check for Sinhala Unicode range
-            return text.Any(c => c >= 0x0D80 && c <= 0x0DFF);
+            return Json(new
+            {
+                answer = response.Message
+            });
         }
+    }
+
+    // DTO for JSON binding
+    public class ChatRequest
+    {
+        public string Question { get; set; }
     }
 }
