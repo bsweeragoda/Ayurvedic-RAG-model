@@ -1,0 +1,77 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\Uni Videos\\Academic Notes\\4th YEAR\\2nd Sem\\Research\\frontend\\AyurvedaChatBot\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\AyurvedaChatBot.bundle.scp.css",
+      "PackagePath": "staticwebassets\\AyurvedaChatBot.ay6w1t7uki.bundle.scp.css"
+    },
+    {
+      "Id": "E:\\Uni Videos\\Academic Notes\\4th YEAR\\2nd Sem\\Research\\frontend\\AyurvedaChatBot\\wwwroot\\Properties\\launchSettings.json",
+      "PackagePath": "staticwebassets\\Properties\\launchSettings.json"
+    },
+    {
+      "Id": "E:\\Uni Videos\\Academic Notes\\4th YEAR\\2nd Sem\\Research\\frontend\\AyurvedaChatBot\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "E:\\Uni Videos\\Academic Notes\\4th YEAR\\2nd Sem\\Research\\frontend\\AyurvedaChatBot\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "E:\\Uni Videos\\Academic Notes\\4th YEAR\\2nd Sem\\Research\\frontend\\AyurvedaChatBot\\wwwroot\\images\\AyurvedaBG.jpg",
+      "PackagePath": "staticwebassets\\images\\AyurvedaBG.jpg"
+    },
+    {
+      "Id": "E:\\Uni Videos\\Academic Notes\\4th YEAR\\2nd Sem\\Research\\frontend\\AyurvedaChatBot\\wwwroot\\js\\chat.js",
+      "PackagePath": "staticwebassets\\js\\chat.js"
+    },
+    {
+      "Id": "E:\\Uni Videos\\Academic Notes\\4th YEAR\\2nd Sem\\Research\\frontend\\AyurvedaChatBot\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "E:\\Uni Videos\\Academic Notes\\4th YEAR\\2nd Sem\\Research\\frontend\\AyurvedaChatBot\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "E:\\Uni Videos\\Academic Notes\\4th YEAR\\2nd Sem\\Research\\frontend\\AyurvedaChatBot\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\Uni Videos\\Academic Notes\\4th YEAR\\2nd Sem\\Research\\frontend\\AyurvedaChatBot\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "E:\\Uni Videos\\Academic Notes\\4th YEAR\\2nd Sem\\Research\\frontend\\AyurvedaChatBot\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "E:\\Uni Videos\\Academic Notes\\4th YEAR\\2nd Sem\\Research\\frontend\\AyurvedaChatBot\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "E:\\Uni Videos\\Academic Notes\\4th YEAR\\2nd Sem\\Research\\frontend\\AyurvedaChatBot\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.AyurvedaChatBot.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.AyurvedaChatBot.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.AyurvedaChatBot.props",
+      "PackagePath": "build\\AyurvedaChatBot.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.AyurvedaChatBot.props",
+      "PackagePath": "buildMultiTargeting\\AyurvedaChatBot.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.AyurvedaChatBot.props",
+      "PackagePath": "buildTransitive\\AyurvedaChatBot.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

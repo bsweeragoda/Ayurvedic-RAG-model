@@ -3,21 +3,19 @@
         this.chatMessages = document.getElementById('chatMessages');
         this.messageInput = document.getElementById('messageInput');
         this.sendButton = document.getElementById('sendButton');
-        this.imageInput = document.getElementById('imageInput');
 
         this.initializeEventListeners();
     }
 
     initializeEventListeners() {
         this.sendButton.addEventListener('click', () => this.sendMessage());
+
         this.messageInput.addEventListener('keypress', (e) => {
             if (e.key === 'Enter' && !e.shiftKey) {
                 e.preventDefault();
                 this.sendMessage();
             }
         });
-
-        this.imageInput.addEventListener('change', () => this.sendImage());
     }
 
     async sendMessage() {
@@ -31,63 +29,36 @@
             const response = await fetch('/Chat/SendMessage', {
                 method: 'POST',
                 headers: {
-                    'Content-Type': 'application/json',
+                    'Content-Type': 'application/json'
                 },
-                body: JSON.stringify({ message: message })
+                // 🔥 MUST MATCH ChatRequest.Question
+                body: JSON.stringify({ Question: message })
             });
 
-            const data = await response.json();
-            this.addBotResponse(data);
-        } catch (error) {
-            this.addMessage('Sorry, I encountered an error. Please try again.', false);
-        }
-    }
-
-    async sendImage() {
-        const file = this.imageInput.files[0];
-        if (!file) return;
-
-        const formData = new FormData();
-        formData.append('image', file);
-
-        this.addMessage(`Uploaded image: ${file.name}`, true);
-
-        try {
-            const response = await fetch('/Chat/SendMessage', {
-                method: 'POST',
-                body: formData
-            });
+            if (!response.ok) {
+                const err = await response.text();
+                throw new Error(err);
+            }
 
             const data = await response.json();
-            this.addBotResponse(data);
-        } catch (error) {
-            this.addMessage('Error processing image. Please try again.', false);
-        }
+            this.addBotMessage(data.answer);
 
-        this.imageInput.value = '';
+        } catch (error) {
+            this.addBotMessage('Sorry, an error occurred while processing your request.');
+            console.error('Chat error:', error);
+        }
     }
 
     addMessage(message, isUser) {
-        const messageDiv = document.createElement('div');
-        messageDiv.className = `message ${isUser ? 'user-message' : 'bot-message'} alert ${isUser ? 'alert-primary' : 'alert-info'}`;
-        messageDiv.innerHTML = `<strong>${isUser ? 'You:' : 'Bot:'}</strong> ${message}`;
-
-        this.chatMessages.appendChild(messageDiv);
+        const div = document.createElement('div');
+        div.className = `message ${isUser ? 'user-message' : 'bot-message'}`;
+        div.innerHTML = `<strong>${isUser ? 'You' : 'AyurBot'}:</strong> ${message}`;
+        this.chatMessages.appendChild(div);
         this.scrollToBottom();
     }
 
-    addBotResponse(response) {
-        if (response.success) {
-            let message = response.message;
-            if (response.prediction) {
-                message += `<br><br><strong>Disease:</strong> ${response.prediction.disease}<br>`;
-                message += `<strong>Confidence:</strong> ${(response.prediction.confidence * 100).toFixed(2)}%<br>`;
-                message += `<strong>Ayurvedic Advice:</strong> ${response.prediction.ayurvedicRemedies}`;
-            }
-            this.addMessage(message, false);
-        } else {
-            this.addMessage(response.message || 'Sorry, I could not process your request.', false);
-        }
+    addBotMessage(message) {
+        this.addMessage(message, false);
     }
 
     scrollToBottom() {
@@ -95,7 +66,6 @@
     }
 }
 
-// Initialize chat when page loads
 document.addEventListener('DOMContentLoaded', () => {
     new AyurBotChat();
 });
