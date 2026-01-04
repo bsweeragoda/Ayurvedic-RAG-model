@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AyurvedaChatBot")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+459e7a1b30c263d19e92e5532f1e001f1d19ac99")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a9c4ccd14d41e2b79727a237250e3db7c67c5c9d")]
 [assembly: System.Reflection.AssemblyProductAttribute("AyurvedaChatBot")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AyurvedaChatBot")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
